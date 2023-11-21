@@ -1,0 +1,87 @@
+body {
+    font-family: "Comfortaa", sans-serif;
+	margin: 0px;
+	transition: background-color 0.5s;
+}
+
+/* Header */
+
+#header {
+    background-color: #1e2845;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+h1 {
+    font-family: 'Comfortaa', sans-serif; /* Applique la police Comfortaa */
+    color: #fff; /* Couleur du texte en blanc */
+	margin: 0;
+	padding: 20px;
+}
+
+.h1-text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 img {
+    margin-right: 10px; /* Ajoute de l'espace entre l'image et le texte */
+	vertical-align: middle;
+	height: 150px;
+}
+
+.h1-first {
+  background-color: #fff;
+  color: #1e2845;
+  text-transform: uppercase;
+  padding: 12px 35px 5px 20px;
+  font-weight: 600;
+  float: left;
+}
+
+.h1-sec {
+  border: 2px solid #fff;
+  margin-top: 10px;
+  float: left;
+  color: #fff;
+  padding: 12px 35px 5px 20px;
+  font-weight: 300;
+}
+
+/* Tableau */
+
+.tableFixHead thead th {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+	background: white;
+}
+
+table, td {
+    border: 1px solid #333;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+th {
+    background-color: #7f062a;
+    color: white;
+}
+
+td img {
+    height: 100px;
+    width: auto;
+}
+
+input[type="text"] {
+    width: 100px; /* Vous pouvez ajuster cette valeur en fonction de la largeur souhaitée */
+}
