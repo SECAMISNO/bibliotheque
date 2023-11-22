@@ -1,4 +1,5 @@
 body {
+	background-color: #1e2845;
     font-family: "Comfortaa", sans-serif;
 	margin: 0px;
 	transition: background-color 0.5s;
@@ -10,7 +11,7 @@ body {
     background-color: #1e2845;
 	display: flex;
 	justify-content: center;
-	width: 100%;
+	width: 100vw;
 }
 
 h1 {
@@ -55,6 +56,17 @@ h1 img {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0px;
+	height: 40px;
+}
+
+.tableFixHead thead tr:first-child th {
+  position: sticky;
+  top: 0;
+}
+
+.tableFixHead thead tr:nth-child(2) th {
+  position: sticky;
+  top: 40px; /* Ajustez cette valeur en fonction de la hauteur de la première ligne d'en-tête */
 }
 
 table {
