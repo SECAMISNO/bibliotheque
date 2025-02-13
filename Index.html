@@ -1,86 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bibliothèque</title>
-    <link rel="stylesheet" type="text/css" href="styles0.4.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bibliothèque</title>
+  <link rel="stylesheet" type="text/css" href="styles0.4.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
 </head>
-</head>
-
 <body>
-	<a href="https://www.amis-ile-noirmoutier.fr/" style="text-decoration: none;">
-		<div id="header">
-			<h1>
-				<span class="h1-text">
-					<span class="h1-first">Les Amis de l’île</span></br><br>
-					<span class="h1-sec">de Noirmoutier</span></br><br>
-				</span>
-				<img src="res/logo-amis-ile-noirmoutier.png">
-				<span class="h1-text">
-					Bibliothèque</br>
-					Archives</br></br>
-				</span>
-			</h1>
-		</div>
-	</a>
+  <a href="https://www.amis-ile-noirmoutier.fr/" style="text-decoration: none;">
+    <div id="header">
+      <h1>
+        <span class="h1-text">
+          <span class="h1-first">Les Amis de l’île</span></br><br>
+          <span class="h1-sec">de Noirmoutier</span></br><br>
+        </span>
+        <img src="res/logo-amis-ile-noirmoutier.png">
+        <span class="h1-text">
+          Bibliothèque</br>
+          Archives</br></br>
+        </span>
+      </h1>
+    </div>
+  </a>
 
-	<div class="tableFixHead">
-		<table>
-			<thead>
-				<tr>
-					<th>ID</th>
-					<th>Auteurs</th>
-					<th>Titre</th>
-					<th>Sous-titre</th>
-					<th>Editeur</th>
-					<th>Lieu édition</th>
-					<th>Date Edition</th>
-					<th>Remarques</th>
-					<th>Thème général</th>
-					<th>Lieu</th>
-					<th>Sujet</th>
-					<th>Saisie</th>
-					<th>support</th>
-					<th>Date acquisition</th>
-					<th>Mode acquisition</th>
-					<th>Prix acquisition</th>
-					<th>Fonds ou Dons</th>
-				</tr>
-				<tr>
-					<th></th>
-					<th><input type="text" id="filterAuthors" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterTitle" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterSubtitle" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterPublisher" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterPlaceEdition" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterDateEdition" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterRemarks" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterGeneralTheme" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterPlace" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterSubject" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterInput" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterSupport" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterAcquisitionDate" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterAcquisitionMode" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterAcquisitionPrice" placeholder="Filtrer"></th>
-					<th><input type="text" id="filterFundsOrDonations" placeholder="Filtrer"></th>
-				</tr>
-			</thead>
-			<tbody id="bookTableBody">
-				<!-- Les données seront insérées ici via JavaScript -->
-			</tbody>
-		</table>
-	</div>
+  <div class="tableFixHead">
+    <table>
+      <thead><!-- L'en-tête est généré dynamiquement --></thead>
+      <tbody id="arcTableBody">
+        <!-- Les données sont insérées ici via JavaScript -->
+      </tbody>
+    </table>
+  </div>
 
-	<script src="biblio.js"></script>
-	<script src="scriptBiblio.js"></script>
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        loadBooks();
-    });
-	</script>
-
+  <!-- On inclut d'abord le script générant la variable arcDatabase -->
+  <script src="biblio.js"></script>
+  <!-- Puis notre script de génération dynamique -->
+  <script src="mainScript.js"></script>
 </body>
 </html>
