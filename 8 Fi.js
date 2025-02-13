@@ -1,7 +1,6 @@
 var ArcDatabase = [
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 1",
+        "﻿N°inventaire": "8 Fi 1",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 1 - Gravure d'Octave de Rochebrune. Arrivée d’un bateau à l’estacade du Bois de la Chaise   ",
         "Objet": "",
@@ -14,8 +13,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 2",
+        "﻿N°inventaire": "8 Fi 2",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 2, 8 Fi 2bis - Gravures d' Abraham Tancrède. Vue du Bois de la Chaise  ( 2 ex dont un encadré)",
         "Objet": "     Gravure",
@@ -28,8 +26,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8  Fi 3",
+        "﻿N°inventaire": "8  Fi 3",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 3 -Gravure d'Octave de Rochebrune,  le grand portail de l’abbaye de la Blanche.  Noirmoutier et un exemplaire en dépôt au Château de Noirmoutier, eau forte n° 354, (44,5 x 29,5 cm) numéro d'inventaire  984.361",
         "Objet": "",
@@ -42,8 +39,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 4/1, 8Fi/2, 8Fi/3, 8Fi/4",
+        "﻿N°inventaire": "8 Fi 4/1, 8Fi/2, 8Fi/3, 8Fi/4",
         "Mode d'Acquisition": "Achat  ",
         "Descriptif": "8 Fi 4 - Jean-Emile Laboureur. Tendre Asclépios.   Bois gravé, dessin préparatoire à la mine de plomb et à la sanguine revêtu du timbre au crabe, deux photos représentant le modèle plage des Dames. (4 pièces)  ",
         "Objet": "",
@@ -56,8 +52,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 5",
+        "﻿N°inventaire": "8 Fi 5",
         "Mode d'Acquisition": "Don Gilles Béranger Fonds 33 E",
         "Descriptif": "8Fi 5 -Gravure. Château de Lion- sur-mer (Calvados), ",
         "Objet": "",
@@ -70,8 +65,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 6",
+        "﻿N°inventaire": "8Fi 6",
         "Mode d'Acquisition": "Don Marcel Ciment",
         "Descriptif": "8 Fi 6 – Gravure. Mort d’un chef vendéen à Nantes",
         "Objet": "",
@@ -84,8 +78,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 7",
+        "﻿N°inventaire": "8Fi 7",
         "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 7 – Gravure. Louis XVI et son confesseur Edgeworth au pied de l’échafaud",
         "Objet": "",
@@ -98,8 +91,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 8",
+        "﻿N°inventaire": "8Fi 8",
         "Mode d'Acquisition": "Achat Nantes 2015 -",
         "Descriptif": "8 Fi 8/1, 8 Fi 8/2 Gravures. Les douze vendéens présentés au premier consul Bonaparte.                                       ",
         "Objet": "",
@@ -112,8 +104,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 9",
+        "﻿N°inventaire": "8Fi 9",
         "Mode d'Acquisition": "Don  M. Ternard de l'Herbaudière. Août 1995",
         "Descriptif": "8Fi 9 - Gravure-  Entrée du port de Noirmoutier ",
         "Objet": "Marine",
@@ -126,8 +117,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 10",
+        "﻿N°inventaire": "8Fi 10",
         "Mode d'Acquisition": "3 exemplaires:  exenplaire n° 76 pour l'association \" Amis de l'île de Noirmoutier\" (achat),  2e exemplaire donné par Mme Lechardour-Orger (Fonds n° 129 E), le 3e est un don anonyme ",
         "Descriptif": "8Fi 10/1, 8 Fi 10/2, 8 Fi 10/3 - Reproduction de 18 gravures des Guerres de Vendée : Exécution de d’Elbée, Soulèvement de Machecoul, Une embuscade, Prise de Charrette, Exécution de Charrette à Nantes, La mort d’Henri de La Rochejacquelein, Bonchamps mourant à Saint Florent le Vieil, Retraite de l’armée vendéenne, Attaque de Nantes par les vendéens, Henri de La Rochejacquelein à la tête des paysans, Combat de Torfou, Bataille du Mans, Pacification de la Vendée, noyade en Loire des prisonniers vendéens, Le combat de La Roche-sur-Yon, 1er rassemblement des paysans vendéens, Passage de la Loire par l’armée vendéenne, Prise de Thouars. ",
         "Objet": "Guerres de Vendée",
@@ -140,8 +130,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 11",
+        "﻿N°inventaire": "8Fi 11",
         "Mode d'Acquisition": "Achat 2014",
         "Descriptif": "8Fi  11:1, 8Fi11/2 -Deux sur bois de Paul Baudier représentant des  scènes de la guerre 1914-1918",
         "Objet": "Guerre 1914-1918",
@@ -154,8 +143,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 12",
+        "﻿N°inventaire": "8Fi 12",
         "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8Fi 12- Gravures sur bois de Raymond Fontanet dit Renefer. (1879-1957) peintre, illustrateur et graveur Français. C’est un dessinateur et graveur déjà très réputé lorsqu’il est mobilisé en 1914 dans le premier régiment de génie. Il va alors s’attacher à témoigner de la vie sur le front, crayonnant le quotidien des hommes",
         "Objet": "",
@@ -168,8 +156,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 12",
+        "﻿N°inventaire": "8Fi 12",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi12/1 à 8 Fi 12/7 ",
         "Objet": "",
@@ -182,8 +169,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 13",
+        "﻿N°inventaire": "8Fi 13",
         "Mode d'Acquisition": "Achat 2019",
         "Descriptif": "8 Fi 13/1, 8 Fi 13/2, 8 Fi 13/3 -  Bronek. Dessins représentant des scènes de la vie sur le front 1914-1918",
         "Objet": "",
@@ -196,8 +182,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 14",
+        "﻿N°inventaire": "8Fi 14",
         "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8 Fi 14 – Jausad ?.  Gravure. Vue sur une entrée d’Eglise au cours d’un bombardement",
         "Objet": "",
@@ -210,8 +195,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 15",
+        "﻿N°inventaire": "8Fi 15",
         "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8 Fi 15-Pavis. Gravure représentant  des  soldats en marche       ",
         "Objet": "",
@@ -224,8 +208,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 16",
+        "﻿N°inventaire": "8Fi 16",
         "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8Fi 16 -  Henri Marret Gravure: Soldats dans une tranchée",
         "Objet": "",
@@ -238,8 +221,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 17",
+        "﻿N°inventaire": "8Fi 17",
         "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8Fi 17 - Henri Marret. Gravure: Ruines d’une église ",
         "Objet": "",
@@ -252,8 +234,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 18",
+        "﻿N°inventaire": "8Fi 18",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 19- J. Thil. Album de  six dessins aquarellés représentant l'arrivée d'un blessé à l'ambulance, sa décoration, la convalescence, le bain de soleil, la visite, le moral est toujours bon",
         "Objet": "",
@@ -266,8 +247,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 19",
+        "﻿N°inventaire": "8Fi 19",
         "Mode d'Acquisition": "Don Louis Boutolleau",
         "Descriptif": "8Fi 19 - Reproduction d'une gravure: La Vendée militaire",
         "Objet": "",
@@ -280,8 +260,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 20",
+        "﻿N°inventaire": "8Fi 20",
         "Mode d'Acquisition": "Don Louis Boutolleau",
         "Descriptif": "8Fi 20 - Reproduction d'une : La vendée militaire",
         "Objet": "",
@@ -294,8 +273,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 21",
+        "﻿N°inventaire": "8Fi 21",
         "Mode d'Acquisition": "Don Roger  Guy",
         "Descriptif": "8Fi 21 - Reproduction d'une gravure: Baie de Noirmoutier et de Bourgneuf",
         "Objet": "",
@@ -308,8 +286,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 22",
+        "﻿N°inventaire": "8Fi 22",
         "Mode d'Acquisition": "Don Marcel Ciment-Serre",
         "Descriptif": "8Fi 22 - Catalogue d'une vente aux enchères - 42 petites scènes de la Révolution Française  ",
         "Objet": "",
@@ -322,8 +299,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 23",
+        "﻿N°inventaire": "8Fi 23",
         "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 23 - Lithographie \" La Loge\" habitation de d'Elbée tirée de'\"Album Vendéen\"",
         "Objet": "",
@@ -336,8 +312,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 24",
+        "﻿N°inventaire": "8Fi 24",
         "Mode d'Acquisition": "Don Herard ",
         "Descriptif": "8 Fi 24 - Sans doute le Louvre, entrée du vestibule",
         "Objet": "",
@@ -350,8 +325,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 25",
+        "﻿N°inventaire": "8Fi 25",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 25/1, 8 Fi 25/2, 8 Fi 25/3 - A. Amiaux. Reproduction de dessins aquarellés vendus au profit des blessés ",
         "Objet": "",
@@ -364,8 +338,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 26",
+        "﻿N°inventaire": "8Fi 26",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 27 - Credit Lyonnais. Affiche représentant un drapeau ensanglanté tenu par un militaire sur un globe",
         "Objet": "",
@@ -378,8 +351,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 27",
+        "﻿N°inventaire": "8Fi 27",
         "Mode d'Acquisition": "Don",
         "Descriptif": "Reproduction d'une gravure",
         "Objet": "",
@@ -392,8 +364,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 28",
+        "﻿N°inventaire": "8Fi 28",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 28/1, 8 Fi 28/2, 8 Fi 28/3 8 Fi 28/4, 8 Fi 28/5, 8 Fi 28/6 - Dupremot? Couverture de livre intitulé \"Captivité\", 5 scènes humoristiques de captivité",
         "Objet": "",
@@ -406,8 +377,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 29",
+        "﻿N°inventaire": "8Fi 29",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 29/1, 8 Fi 29/2, 8 Fi 29/3, 8Fi 29/4 - Manfretin? 4 Reproductions de dessins humoristiques au fusain ",
         "Objet": "",
@@ -420,8 +390,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 30",
+        "﻿N°inventaire": "8Fi 30",
         "Mode d'Acquisition": "Don B. Dronneau",
         "Descriptif": "8 Fi 30 -Topgraphie d'un dessin Dronneau - Noirmoutier la Tour Plantier 22/77",
         "Objet": "",
@@ -434,8 +403,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 31",
+        "﻿N°inventaire": "8Fi 31",
         "Mode d'Acquisition": "Don B. Dronneau",
         "Descriptif": "8 Fi 31 -Dronneau.  Ile de Noirmoutier les moulins avant XIXe n° 63 A",
         "Objet": "",
@@ -448,8 +416,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 32",
+        "﻿N°inventaire": "8Fi 32",
         "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 32 - Launeau. Linogravure d'un dessin à l'encre de chine 3/12",
         "Objet": "",
@@ -462,8 +429,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 33",
+        "﻿N°inventaire": "8Fi 33",
         "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 33 - Pierre Courtois. Le cimetière des bateaux à Noirmoutier",
         "Objet": "",
@@ -476,8 +442,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 34",
+        "﻿N°inventaire": "8Fi 34",
         "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 34- Pierre Courtois. Le marais de Müllembourg",
         "Objet": "",
@@ -490,8 +455,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 35",
+        "﻿N°inventaire": "8Fi 35",
         "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 35- Pierre Courtois. Le  Port et le Château de Noirmoutier",
         "Objet": "",
@@ -504,8 +468,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 36/1, 8Fi36/2, 8 Fi 36/3, 8Fi 36/4",
+        "﻿N°inventaire": "8 Fi 36/1, 8Fi36/2, 8 Fi 36/3, 8Fi 36/4",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 36/ 1, 8 Fi 36/2, 8 Fi 36/3 - Paul Adrien Bouroux. 3 dessins au fusain qui ont servi à illustrer le livre de Jean Yole \"Le marais de Monts en Vendée, son rivage et ses rives\": ",
         "Objet": "",
@@ -518,8 +481,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8Fi 37",
+        "﻿N°inventaire": "8Fi 37",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "Femmes de Noirmoutier",
         "Objet": "",
@@ -532,8 +494,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 38",
+        "﻿N°inventaire": "8 Fi 38",
         "Mode d'Acquisition": "Don Gilles Béranger   Fonds 33 E",
         "Descriptif": "8 Fi 38/1,8 Fi 38/2, 8 Fi/3, 8 Fi/4 . 4 dessins représentant la future propriété des louinas: Baie de Saint Pierre, plan du terrain, façade de la maison, esquisse du jardin",
         "Objet": "",
@@ -546,8 +507,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 39",
+        "﻿N°inventaire": "8 Fi 39",
         "Mode d'Acquisition": "Don Jean Remi Rhoné      Fonds E 74",
         "Descriptif": "8 Fi 39- Claire Pineau. Estacade du Bois de la Chaise à Noirmoutier en l'Île",
         "Objet": "",
@@ -560,8 +520,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 40",
+        "﻿N°inventaire": "8 Fi 40",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 40 Maxime Lastanerre",
         "Objet": "",
@@ -574,8 +533,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 41",
+        "﻿N°inventaire": "8 Fi 41",
         "Mode d'Acquisition": "Don Gauducheau         Fonds ",
         "Descriptif": "8 Fi 41 - 2 dessins colorisés représentant des noirmoutrins devant le passage du Gois",
         "Objet": "",
@@ -588,8 +546,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 42",
+        "﻿N°inventaire": "8 Fi 42",
         "Mode d'Acquisition": "Don Alain Mitry de Nantes",
         "Descriptif": "8 Fi 42 - Portrait d'Ambroise Baudry (1838-1906)",
         "Objet": "",
@@ -602,8 +559,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 43",
+        "﻿N°inventaire": "8 Fi 43",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 43 a,b,c  3 dessins crayon d'Evain sous verre",
         "Objet": "",
@@ -616,8 +572,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 44",
+        "﻿N°inventaire": "8 Fi 44",
         "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 44- Pierre Courtois. Le marais de la vache",
         "Objet": "",
@@ -630,8 +585,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 45 ",
+        "﻿N°inventaire": "8 Fi 45 ",
         "Mode d'Acquisition": "Don Jean Laidin",
         "Descriptif": "8 Fi 45 - Composition imaginaire sur Noirmoutier",
         "Objet": "",
@@ -644,8 +598,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 46",
+        "﻿N°inventaire": "8 Fi 46",
         "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 46 – Portraits de Marie Anne Viaud et de Pierre Philippe Lefèbre, présentés dans le cadre d’origine\nObjet : Note au dos du 1e portrait : Marie Anne Viaud née à Noirmoutier en 1752, fille d’André Viaud et de Jeanne Favreau, mariée en 1775 à Pierre Philippe Joseph Lefèbvre, négociant, né à St Omer. \nNote au dos du 2e portrait : Pierre Philippe Joseph Lefèbvre, négociant, né à St Omer en 1750, arrivé à Noirmoutier en 1768 et marié en 1775 à Marie Anne Viaud, fille d’André Viaud et de Jeanne Favreau. Portraits de 1778.\n\n\n\n\n\n\n",
         "Objet": "",
@@ -658,8 +611,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 47",
+        "﻿N°inventaire": "8 Fi 47",
         "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 47 - Le Bois de la Chaise au environ de Saint Pierre",
         "Objet": "",
@@ -672,8 +624,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 48 ",
+        "﻿N°inventaire": "8 Fi 48 ",
         "Mode d'Acquisition": "Genevieve Coulombeau",
         "Descriptif": "8 Fi 48- Guy Ganachaud. 7 dessins présentés dans un livret \"Visage de Marie-\"",
         "Objet": "",
@@ -686,8 +637,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 49",
+        "﻿N°inventaire": "8 Fi 49",
         "Mode d'Acquisition": "Don Juliane Bogaert",
         "Descriptif": "8 Fi 49:1, 8 Fi 49/2- Juliane Bogaert. 2 dessins au feutre l'un représentant des éssèpes l'autre des marais",
         "Objet": "",
@@ -700,8 +650,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 50",
+        "﻿N°inventaire": "8 Fi 50",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 50- Marie Laurencin. Le château de Noirmoutier",
         "Objet": "",
@@ -714,8 +663,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 51",
+        "﻿N°inventaire": "8 Fi 51",
         "Mode d'Acquisition": "Don Maurice Quenet",
         "Descriptif": "8 Fi 51- Reproduction d'une Peinture: La Tour Plantier Noirmoutier",
         "Objet": "",
@@ -728,8 +676,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 52",
+        "﻿N°inventaire": "8 Fi 52",
         "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 52/1, 8 Fi 52/2. Dessin.  Reproductions de 2 Cartes de la baie de Bougneuf et de l'île de Noirmoutier à basse mer illustrant les différentes activités de ces lieux.",
         "Objet": "",
@@ -742,8 +689,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 53",
+        "﻿N°inventaire": "8 Fi 53",
         "Mode d'Acquisition": "Don Corbrejaud",
         "Descriptif": "8 Fi 53- Reproduction couleur de la carte de de la baie de Bourgneuf et de l'île de Noirmoutier",
         "Objet": "",
@@ -756,8 +702,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 54",
+        "﻿N°inventaire": "8 Fi 54",
         "Mode d'Acquisition": "Don Sellig du F",
         "Descriptif": "8 Fi 54- lithographie d'un dessin aquarellé représentant la vie animée du port et de la ville de Noirmoutier en l'île ",
         "Objet": "",
@@ -770,8 +715,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 55",
+        "﻿N°inventaire": "8 Fi 55",
         "Mode d'Acquisition": "Do Mme Guy Ganachaud",
         "Descriptif": "8 Fi - Lithographie d'un dessin de Guy Ganachaud",
         "Objet": "",
@@ -784,8 +728,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 56",
+        "﻿N°inventaire": "8 Fi 56",
         "Mode d'Acquisition": "Don Gilles Béranger. Fonds E 33 ",
         "Descriptif": "8 Fi 56/1 et 8 Fi 56/2. 2 dessins représentants l'un une Gloriette dans un bois , l'autre l'autre des arbres dans un paysage montagneux ",
         "Objet": "",
@@ -798,8 +741,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 57",
+        "﻿N°inventaire": "8 Fi 57",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 57- Charles Marionneau. Dessin dans son cadre doré d'origine de l'île du Pilier",
         "Objet": "",
@@ -812,8 +754,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 58",
+        "﻿N°inventaire": "8 Fi 58",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8Fi 58 Tancrède Abraham Fonds d'atelier de T a 1836-1895",
         "Objet": "",
@@ -826,8 +767,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 59",
+        "﻿N°inventaire": "8 Fi 59",
         "Mode d'Acquisition": "Don Mme Huyebaert Fonds 128 E",
         "Descriptif": "8 F i 59- a et b Huygbaert",
         "Objet": "Plan",
@@ -840,8 +780,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 60 ",
+        "﻿N°inventaire": "8 Fi 60 ",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 60 Noirmoutier au XVIIe  (316)",
         "Objet": "Carte",
@@ -854,8 +793,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 61",
+        "﻿N°inventaire": "8 FI 61",
         "Mode d'Acquisition": "Don du Docteur Oudot, 1960",
         "Descriptif": "8 FI 61- Gravure de François Bonneville: Portrait de Charrette dans portrait de personnages célèbres de la Révolution. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-88)",
         "Objet": "Portrait",
@@ -868,8 +806,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 62",
+        "﻿N°inventaire": "8 Fi 62",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 62- Gravure le Storm",
         "Objet": "Marine",
@@ -882,8 +819,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 63",
+        "﻿N°inventaire": "8 Fi 63",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 63",
         "Objet": "",
@@ -896,8 +832,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 64 ",
+        "﻿N°inventaire": "8 Fi 64 ",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 64 Rémi Imbert",
         "Objet": "",
@@ -910,8 +845,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 65",
+        "﻿N°inventaire": "8 Fi 65",
         "Mode d'Acquisition": "Don ",
         "Descriptif": "8 Fi 65- Lithographie de Daniel Dufour: Aquarelle représentant une plage du Bois de la Chaise , une villa et un couple vers 1900",
         "Objet": "Paysage",
@@ -924,8 +858,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "",
+        "﻿N°inventaire": "8 Fi 68",
         "Mode d'Acquisition": "",
         "Descriptif": "",
         "Objet": "",
@@ -938,50 +871,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "",
-        "Mode d'Acquisition": "",
-        "Descriptif": "",
-        "Objet": "",
-        "Titre/Inscription": "",
-        "Date d'Exécution": "",
-        "Lieu": "",
-        "Technique/support": "",
-        "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
-    },
-    {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 68",
-        "Mode d'Acquisition": "",
-        "Descriptif": "",
-        "Objet": "",
-        "Titre/Inscription": "",
-        "Date d'Exécution": "",
-        "Lieu": "",
-        "Technique/support": "",
-        "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
-    },
-    {
-        "﻿Colonne1": "",
-        "N°inventaire": "",
-        "Mode d'Acquisition": "",
-        "Descriptif": "En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-)",
-        "Objet": "",
-        "Titre/Inscription": "",
-        "Date d'Exécution": "",
-        "Lieu": "",
-        "Technique/support": "",
-        "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
-    },
-    {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 70",
+        "﻿N°inventaire": "8 Fi 70",
         "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 70-  Octave de Rochebrune.  Gravure: Le Bois de la Chaise. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.1)",
         "Objet": "Art",
@@ -994,8 +884,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 71",
+        "﻿N°inventaire": "8 Fi 71",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 71- Octave de Rochebrune. Gravure: Le Fort Saint Pierre. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.2)",
         "Objet": "Art",
@@ -1008,8 +897,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 72",
+        "﻿N°inventaire": "8 Fi 72",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 72-  WilliamEllis. Gravure: The Great Eastern Steam Ship. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.53)",
         "Objet": "Art. Navire à roue",
@@ -1022,8 +910,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 73",
+        "﻿N°inventaire": "8 Fi 73",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 73- Pierre Savart.  Gravure : Ville Fortifiée . En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984-58)",
         "Objet": "Art",
@@ -1036,8 +923,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 74",
+        "﻿N°inventaire": "8 FI 74",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 74- Gravure. Moulin è eau. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984-59)",
         "Objet": "Art.Moulin à eau",
@@ -1050,8 +936,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 75",
+        "﻿N°inventaire": "8 Fi 75",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 75- Césius. Gravure:  Dame à la Licorne.                                       En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.60)",
         "Objet": "Art",
@@ -1064,8 +949,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 76",
+        "﻿N°inventaire": "8 Fi 76",
         "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 76- Gravure d'Hermann Von Swanevelt: Saint Antoine et Saint Jérôme. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.61)",
         "Objet": "Art",
@@ -1078,8 +962,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 77",
+        "﻿N°inventaire": "8 FI 77",
         "Mode d'Acquisition": "",
         "Descriptif": "8 FI 77- Gravure d'Hermann Von Swaneveit: Saint Antoine et le Satyre. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-62)",
         "Objet": "Art",
@@ -1092,8 +975,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 78",
+        "﻿N°inventaire": "8 FI 78",
         "Mode d'Acquisition": "",
         "Descriptif": "8 FI 78- Gravure de B. Paris: Vue de la Meilleraie. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-82) AU DOS: Dessin de Bagnolet et Pellray",
         "Objet": "Art",
@@ -1106,8 +988,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 79",
+        "﻿N°inventaire": "8 FI 79",
         "Mode d'Acquisition": "",
         "Descriptif": "8 FI 79- Gravure de Charles-Claude Bachelier: Palais de Justice de Rouen. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-83)",
         "Objet": "Architecture",
@@ -1120,8 +1001,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 80",
+        "﻿N°inventaire": "8 FI 80",
         "Mode d'Acquisition": "",
         "Descriptif": "8 FI 80- Gravure de Locauchie: Paysan Vendéen. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-84)",
         "Objet": "Ethnographie",
@@ -1134,8 +1014,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 81",
+        "﻿N°inventaire": "8 FI 81",
         "Mode d'Acquisition": "",
         "Descriptif": "8 FI 81- Gravure de Morteret: Entrée de Charrette à Nantes. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-85)",
         "Objet": "Episode des guerres de Vendée",
@@ -1148,22 +1027,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "",
-        "Mode d'Acquisition": "",
-        "Descriptif": "",
-        "Objet": "",
-        "Titre/Inscription": "",
-        "Date d'Exécution": "",
-        "Lieu": "",
-        "Technique/support": "",
-        "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
-    },
-    {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 83",
+        "﻿N°inventaire": "8 FI 83",
         "Mode d'Acquisition": "",
         "Descriptif": "8FI 83- Gravure: portrait d'un officier de marine. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-90)",
         "Objet": "Portrait",
@@ -1176,8 +1040,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8FI 84",
+        "﻿N°inventaire": "8FI 84",
         "Mode d'Acquisition": "",
         "Descriptif": "8FI84- Gravure de Jean Baptiste Paulin Guerin: Portrait d'Henri de la Rochejaquelin.  En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-96)",
         "Objet": "Portrait",
@@ -1190,8 +1053,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 85",
+        "﻿N°inventaire": "8 FI 85",
         "Mode d'Acquisition": "Don MR Venereau",
         "Descriptif": "8 FI 85-  Marine de guerre de France  .   En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-97)",
         "Objet": "Marine",
@@ -1204,8 +1066,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 86    ",
+        "﻿N°inventaire": "8 Fi 86    ",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 FI 86- Gravure:  Portrait de Louis II de la Trémoille (1460-1525 (Pavie), vicomte de Thouars, Prnce de Talmont, conseiller du Roi Charles VIII, géneral lors des campagnes de Naples et de Milan, marié à Luisa de Borgia.  En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-99)",
         "Objet": "Portrait",
@@ -1218,8 +1079,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 87",
+        "﻿N°inventaire": "8 Fi 87",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 87- Gravures: Portrait de Louis II de la Trémoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.106 a et 984.106 b)",
         "Objet": "Portrait",
@@ -1232,8 +1092,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 88",
+        "﻿N°inventaire": "8 Fi 88",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 88- Gravure: Portrait de Louis II de la Trémoille qui devint seigneur de Noirmoutier  après la mort de son frère Jehan en 1507, abbé de La Blanche, Cardinal d'Auch. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.354)",
         "Objet": " Portait",
@@ -1246,8 +1105,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 89",
+        "﻿N°inventaire": "8 Fi 89",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 89- Gravure: Victoire de Louis II de La Trémoille sur le Duc de Bretagne. En dépôt au Chareau-Musée de Noirmoutier (numéro d'inventaire 984.109)  ",
         "Objet": "Scène historique",
@@ -1260,8 +1118,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 90",
+        "﻿N°inventaire": "8 Fi 90",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 90-  Gravure: Portrait de Charles de la Tremouille mort en 1515. En dépôt au Château-Musée de Noirmoutier (nunéro d'inventaire984.128)",
         "Objet": "Portrait",
@@ -1274,8 +1131,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 91",
+        "﻿N°inventaire": "8 Fi 91",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 91 - Gravure: Portrait de Louis III de La Trémoille, 1er Duc de Thouars (1521-1557), époux de Jeanne de Montmorency. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.351)",
         "Objet": "Portrait",
@@ -1288,8 +1144,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 92",
+        "﻿N°inventaire": "8 Fi 92",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 91-  Gravure: Charlotte Catherine de la Trimoille (1568-1629) fille de Louis III de La Tremoille et de Jeanne de Montmorency, épouse en 1586 le Prince de Condé, Gouverneur de Picardie, duc d'Enghien. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.358)",
         "Objet": "Portrait",
@@ -1302,8 +1157,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 93",
+        "﻿N°inventaire": "8 Fi 93",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 93- Gravure: Portrait de Claude de la Trémoille (1566-1604) 2e duc de Thouars, époux de Charlotte Brabantine van Orange-Nasseau. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-103)",
         "Objet": "Portrait",
@@ -1316,8 +1170,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 94",
+        "﻿N°inventaire": "8 FI 94",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 92- Gravures: Portrait d'Henri de la Trémoille 3e duc de Thouars et de La Trémoille (1598-1674) époux de Marie de La Tour d'Auvergne. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-100)",
         "Objet": "Portrait",
@@ -1330,8 +1183,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 95",
+        "﻿N°inventaire": "8 Fi 95",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 95- Gravures: Portrait d'Henri de la Trémoille 3e duc de Thouars et de La Trémoille (1598-1674) époux de Marie de La Tour d'Auvergne. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-102 a et 984.102 b) et don Lilianne Gibault",
         "Objet": "Portrait",
@@ -1344,8 +1196,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 96 ",
+        "﻿N°inventaire": "8 Fi 96 ",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 96- Gravure: Portrait d' Henry de la Trémoille et de Thouars. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-104)",
         "Objet": "Portrait",
@@ -1358,8 +1209,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": " ",
-        "N°inventaire": "8 Fi 97",
+        "﻿N°inventaire": "8 Fi 97",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 97- Gravure: Portrait de Marie de La Tour d'Auvergne duchesse de La Tremoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-98) ",
         "Objet": "Portrait",
@@ -1372,8 +1222,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 98 ",
+        "﻿N°inventaire": "8 Fi 98 ",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974 Don Lilianne Gibault",
         "Descriptif": "8 Fi 98- Gravure: Portrait de Henry Charles de la Trémoille (1598-1674), 4e duc de Thouars (1620-1672) prince de Tarente . En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-105). Don Lilianne Gibault Henri Charles Prince de Talmont et Henri Charles Prince de Tarente 8 Fi 98/1 et 8 Fi 98/2",
         "Objet": "Portrait",
@@ -1386,8 +1235,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 FI 99",
+        "﻿N°inventaire": "8 FI 99",
         "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 99- Gravure: Portrait de Louis-Maurice de la Trémoille (1624-1681), fils de Henri de la Tremoille et de Marie de la Tour d'Auvergne, abbé de Charroux.  En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.101 a et 984.101 b) . 2e X Don Lilianne Gibault 8 Fi 99/2",
         "Objet": "Portrait ",
@@ -1400,8 +1248,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 100",
+        "﻿N°inventaire": "8 Fi 100",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 100- Gravure: Charles de la Trimoille '1485-1515 Marignan) Prnce de Talmont. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.128)",
         "Objet": "Portrait",
@@ -1414,8 +1261,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 101",
+        "﻿N°inventaire": "8 Fi 101",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 101- Gravure: Marie Madeleine Mottier dite de Lafayette  + 1717 (petite fille de Madame de Lafayette) duchesse de  la Tremoille épouse de Charles  de la Tremoille.",
         "Objet": "Portrait",
@@ -1428,8 +1274,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 102",
+        "﻿N°inventaire": "8 Fi 102",
         "Mode d'Acquisition": "Don Lilianne Gibault",
         "Descriptif": "8 Fi 102- Gravure: Louis II de la Tremoille, marquis de Noirmoutier, lieutenant général pour sa Majesté dans la province d'Anjou. ",
         "Objet": "Portrait",
@@ -1442,8 +1287,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 103 ",
+        "﻿N°inventaire": "8 Fi 103 ",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 103- Gravure: Le Duc de la Tremoille. En dépôt au château-Musée de Noirmoutier (numéro d'inventaire 984.130)",
         "Objet": "Portrait",
@@ -1456,8 +1300,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 104 ",
+        "﻿N°inventaire": "8 Fi 104 ",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 104- Gravure: Mort du Prince de Talmont  d'après une peinture à l'huile de Richard François Fleuri, perdu depuis 1830. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.131 ",
         "Objet": "Intérieur du couvent de Chartreux",
@@ -1470,8 +1313,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 105 ",
+        "﻿N°inventaire": "8 Fi 105 ",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 105- Gravure : Anne Marie de la Trémoille, Princesse des Ursins. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.107 ) ",
         "Objet": "Portrait",
@@ -1484,8 +1326,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 106",
+        "﻿N°inventaire": "8 Fi 106",
         "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 106- Gravure : Gustave Staal: Anne Marie de la Trémoille, Princesse des Ursins. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.357)",
         "Objet": "Portrait",
@@ -1498,8 +1339,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 107",
+        "﻿N°inventaire": "8 Fi 107",
         "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 105- Gravure : Anne Marie de la Trémoille, Princesse des Ursins. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.350)",
         "Objet": "Portrait",
@@ -1512,8 +1352,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 108",
+        "﻿N°inventaire": "8 Fi 108",
         "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 106- A. Lemonnier: Charlotte de Beaune épouse de François de la Tremoille (1568-1629). En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.358)",
         "Objet": "Portrait",
@@ -1526,8 +1365,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 109",
+        "﻿N°inventaire": "8 Fi 109",
         "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 109- Gravure: Philippe de la Tremoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-)",
         "Objet": "",
@@ -1540,8 +1378,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 110",
+        "﻿N°inventaire": "8 Fi 110",
         "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 110- Gravure: Louis de la Tremoille Marquis de Noirmoutier. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-)",
         "Objet": "Portrait",
@@ -1554,8 +1391,7 @@ var ArcDatabase = [
         "": ""
     },
     {
-        "﻿Colonne1": "",
-        "N°inventaire": "8 Fi 111 ",
+        "﻿N°inventaire": "8 Fi 111 ",
         "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 111- Gravure: Joseph Emmanuel de la Tremoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.363)",
         "Objet": "Portrait",
@@ -1565,20 +1401,6 @@ var ArcDatabase = [
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "10,5 x 15 cm",
         "Auteur/Editeur": "Auteur: Cévend                                            Editeur: E. Desrochers",
-        "": ""
-    },
-    {
-        "﻿Colonne1": "",
-        "N°inventaire": "",
-        "Mode d'Acquisition": "",
-        "Descriptif": "Gravure: Portrait de Louis-MauriceEn dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-)",
-        "Objet": "",
-        "Titre/Inscription": "",
-        "Date d'Exécution": "",
-        "Lieu": "",
-        "Technique/support": "",
-        "Dimensions ": "",
-        "Auteur/Editeur": "",
         "": ""
     }
 ];
