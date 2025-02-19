@@ -1,7 +1,6 @@
 var ArcDatabase = [
     {
         "﻿N°inventaire": "8 Fi 1",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 1 - Gravure d'Octave de Rochebrune. Arrivée d’un bateau à l’estacade du Bois de la Chaise   ",
         "Objet": "",
         "Titre/Inscription": "L'arrivée du bateau à vapeur Paul Boyton à l'estacade",
@@ -9,12 +8,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Eau forte encadrée. Papier",
         "Dimensions ": "16,7 x 11,8 cm",
-        "Auteur/Editeur": "Octave de Rochebrune",
-        "": ""
+        "Auteur/Editeur": "Octave de Rochebrune"
     },
     {
         "﻿N°inventaire": "8 Fi 2",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 2, 8 Fi 2bis - Gravures d' Abraham Tancrède. Vue du Bois de la Chaise  ( 2 ex dont un encadré)",
         "Objet": "     Gravure",
         "Titre/Inscription": "Le sentier du tambourin",
@@ -22,12 +19,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Eau forte sur papier",
         "Dimensions ": "21,5 x 14.9 cm",
-        "Auteur/Editeur": "Abraham Tancrède",
-        "": ""
+        "Auteur/Editeur": "Abraham Tancrède"
     },
     {
         "﻿N°inventaire": "8  Fi 3",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 3 -Gravure d'Octave de Rochebrune,  le grand portail de l’abbaye de la Blanche.  Noirmoutier et un exemplaire en dépôt au Château de Noirmoutier, eau forte n° 354, (44,5 x 29,5 cm) numéro d'inventaire  984.361",
         "Objet": "",
         "Titre/Inscription": "Ile de Noirmoutier. Grand portail de l’abbaye de La Blanche",
@@ -35,12 +30,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier.    Abbaye de la Blanche",
         "Technique/support": "Eau forte sur papier avec rousseures. Encadrée",
         "Dimensions ": "18 x 23 cm",
-        "Auteur/Editeur": "Octave de Rochebrune  ",
-        "": ""
+        "Auteur/Editeur": "Octave de Rochebrune  "
     },
     {
         "﻿N°inventaire": "8 Fi 4/1, 8Fi/2, 8Fi/3, 8Fi/4",
-        "Mode d'Acquisition": "Achat  ",
         "Descriptif": "8 Fi 4 - Jean-Emile Laboureur. Tendre Asclépios.   Bois gravé, dessin préparatoire à la mine de plomb et à la sanguine revêtu du timbre au crabe, deux photos représentant le modèle plage des Dames. (4 pièces)  ",
         "Objet": "",
         "Titre/Inscription": "",
@@ -48,12 +41,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier          Plage des Dames",
         "Technique/support": "Epreuve sur Japon mince. Bois gravé avec quadrillage au crayon bleu sur la tête",
         "Dimensions ": "16.6 x 18.6 cm",
-        "Auteur/Editeur": "Jean-Emile Laboureur ",
-        "": ""
+        "Auteur/Editeur": "Jean-Emile Laboureur "
     },
     {
         "﻿N°inventaire": "8 Fi 5",
-        "Mode d'Acquisition": "Don Gilles Béranger Fonds 33 E",
         "Descriptif": "8Fi 5 -Gravure. Château de Lion- sur-mer (Calvados), ",
         "Objet": "",
         "Titre/Inscription": "La Normandie illustrée  Château de Lion-sur-mer",
@@ -61,12 +52,10 @@ var ArcDatabase = [
         "Lieu": "Lion sur Mer",
         "Technique/support": "Lithographie. Papier",
         "Dimensions ": "38 x 28,5 cm",
-        "Auteur/Editeur": "Auteur Benoist, éditeur Charpentier ",
-        "": ""
+        "Auteur/Editeur": "Auteur Benoist, éditeur Charpentier "
     },
     {
         "﻿N°inventaire": "8Fi 6",
-        "Mode d'Acquisition": "Don Marcel Ciment",
         "Descriptif": "8 Fi 6 – Gravure. Mort d’un chef vendéen à Nantes",
         "Objet": "",
         "Titre/Inscription": "Exécution Charrette",
@@ -74,12 +63,10 @@ var ArcDatabase = [
         "Lieu": "Faubourg de Nantes",
         "Technique/support": "Lithographie. Papier ",
         "Dimensions ": "18 x 23 cm",
-        "Auteur/Editeur": "Editeur Couché Fils",
-        "": ""
+        "Auteur/Editeur": "Editeur Couché Fils"
     },
     {
         "﻿N°inventaire": "8Fi 7",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 7 – Gravure. Louis XVI et son confesseur Edgeworth au pied de l’échafaud",
         "Objet": "",
         "Titre/Inscription": "Louis XVI avec son confesseur Edge Wortil, un instant avant sa mort.  Fils de St Louis monté au ciel",
@@ -87,12 +74,10 @@ var ArcDatabase = [
         "Lieu": "Paris",
         "Technique/support": "Gravure",
         "Dimensions ": "40 x 49 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 8",
-        "Mode d'Acquisition": "Achat Nantes 2015 -",
         "Descriptif": "8 Fi 8/1, 8 Fi 8/2 Gravures. Les douze vendéens présentés au premier consul Bonaparte.                                       ",
         "Objet": "",
         "Titre/Inscription": "Présentation au premier consul Bonaparte, des 12 vendéens qui ont chassés les anglais. Parmi eux, Julien Lassourd de Barbâtre, sous-officier de la compagnie franche de la Vendée, Sébastien Palvadeau, Jean Penisson dit Bourriau et Francois Boutet tous de l’Epine, Isidore Milcent et  Mathieu Préchais de Noirmoutier ",
@@ -100,12 +85,10 @@ var ArcDatabase = [
         "Lieu": "Paris",
         "Technique/support": "Estampes sur papier dont l'une aquarellée",
         "Dimensions ": "51 x 41 cm",
-        "Auteur/Editeur": "A Paris chez Basset Md. D'Estampes et fabricant de papiers peints rue St Jacques Paris",
-        "": ""
+        "Auteur/Editeur": "A Paris chez Basset Md. D'Estampes et fabricant de papiers peints rue St Jacques Paris"
     },
     {
         "﻿N°inventaire": "8Fi 9",
-        "Mode d'Acquisition": "Don  M. Ternard de l'Herbaudière. Août 1995",
         "Descriptif": "8Fi 9 - Gravure-  Entrée du port de Noirmoutier ",
         "Objet": "Marine",
         "Titre/Inscription": "Vue de Noirmoutiers.                Prise de l'entrée du port",
@@ -113,12 +96,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'Île",
         "Technique/support": "Estampe sur Papier ",
         "Dimensions ": "66 x 50.5 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 10",
-        "Mode d'Acquisition": "3 exemplaires:  exenplaire n° 76 pour l'association \" Amis de l'île de Noirmoutier\" (achat),  2e exemplaire donné par Mme Lechardour-Orger (Fonds n° 129 E), le 3e est un don anonyme ",
         "Descriptif": "8Fi 10/1, 8 Fi 10/2, 8 Fi 10/3 - Reproduction de 18 gravures des Guerres de Vendée : Exécution de d’Elbée, Soulèvement de Machecoul, Une embuscade, Prise de Charrette, Exécution de Charrette à Nantes, La mort d’Henri de La Rochejacquelein, Bonchamps mourant à Saint Florent le Vieil, Retraite de l’armée vendéenne, Attaque de Nantes par les vendéens, Henri de La Rochejacquelein à la tête des paysans, Combat de Torfou, Bataille du Mans, Pacification de la Vendée, noyade en Loire des prisonniers vendéens, Le combat de La Roche-sur-Yon, 1er rassemblement des paysans vendéens, Passage de la Loire par l’armée vendéenne, Prise de Thouars. ",
         "Objet": "Guerres de Vendée",
         "Titre/Inscription": "Hauts lieux et hauts faits des guerres de Vendée. Evenements de 1793 à 1796",
@@ -126,12 +107,10 @@ var ArcDatabase = [
         "Lieu": "Vendée Militaire",
         "Technique/support": "Ensemble de 18 reproductions de gravures  tiré à petit nombre, présenté dans un portefeuille fermé par un moulage en cire d'un sceau de l'armée royale. ",
         "Dimensions ": "45 x 32 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 11",
-        "Mode d'Acquisition": "Achat 2014",
         "Descriptif": "8Fi  11:1, 8Fi11/2 -Deux sur bois de Paul Baudier représentant des  scènes de la guerre 1914-1918",
         "Objet": "Guerre 1914-1918",
         "Titre/Inscription": "Deux scènes de la guerre 1914-1918 - Deux scènes de prisonnier. Signature du dessinateur Paul Baudier",
@@ -139,12 +118,10 @@ var ArcDatabase = [
         "Lieu": "Vendée Militaire",
         "Technique/support": "Gravure sur Bois. Papier  ",
         "Dimensions ": "42 x 27,5 cm                          40  x 49  cm",
-        "Auteur/Editeur": "Auteur: Paul Baudier",
-        "": ""
+        "Auteur/Editeur": "Auteur: Paul Baudier"
     },
     {
         "﻿N°inventaire": "8Fi 12",
-        "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8Fi 12- Gravures sur bois de Raymond Fontanet dit Renefer. (1879-1957) peintre, illustrateur et graveur Français. C’est un dessinateur et graveur déjà très réputé lorsqu’il est mobilisé en 1914 dans le premier régiment de génie. Il va alors s’attacher à témoigner de la vie sur le front, crayonnant le quotidien des hommes",
         "Objet": "",
         "Titre/Inscription": "Soldats creusant une tranchée-Les chevaux morts-Soldats accompagnants des prisonniers-Champs de bataille-Soldat sur le champs de bataille-Sénégalais-Canon. Signature de l'auteur ",
@@ -152,12 +129,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Gravure sur bois. Papier",
         "Dimensions ": "28 x 22.5 cm",
-        "Auteur/Editeur": "Aureur et graveur: Renefer",
-        "": ""
+        "Auteur/Editeur": "Aureur et graveur: Renefer"
     },
     {
         "﻿N°inventaire": "8Fi 12",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi12/1 à 8 Fi 12/7 ",
         "Objet": "",
         "Titre/Inscription": "",
@@ -165,12 +140,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 13",
-        "Mode d'Acquisition": "Achat 2019",
         "Descriptif": "8 Fi 13/1, 8 Fi 13/2, 8 Fi 13/3 -  Bronek. Dessins représentant des scènes de la vie sur le front 1914-1918",
         "Objet": "",
         "Titre/Inscription": "Soldats montant la garde -Soldats au repos devant le feu-Soldats à la corvée de patates",
@@ -178,12 +151,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Gravure sur bois - support papier",
         "Dimensions ": "22 x 28 cm",
-        "Auteur/Editeur": "Bronek",
-        "": ""
+        "Auteur/Editeur": "Bronek"
     },
     {
         "﻿N°inventaire": "8Fi 14",
-        "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8 Fi 14 – Jausad ?.  Gravure. Vue sur une entrée d’Eglise au cours d’un bombardement",
         "Objet": "",
         "Titre/Inscription": "",
@@ -191,12 +162,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier cartonné       Estampe 87/100",
         "Dimensions ": "50 x 33 cm",
-        "Auteur/Editeur": "Jausad ?",
-        "": ""
+        "Auteur/Editeur": "Jausad ?"
     },
     {
         "﻿N°inventaire": "8Fi 15",
-        "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8 Fi 15-Pavis. Gravure représentant  des  soldats en marche       ",
         "Objet": "",
         "Titre/Inscription": "Signature de l'auteur G. Pavis",
@@ -204,12 +173,10 @@ var ArcDatabase = [
         "Lieu": "Paris",
         "Technique/support": "Papier  - Estampe",
         "Dimensions ": "45 x 32.5 cm",
-        "Auteur/Editeur": "Auteur: Pavis",
-        "": ""
+        "Auteur/Editeur": "Auteur: Pavis"
     },
     {
         "﻿N°inventaire": "8Fi 16",
-        "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8Fi 16 -  Henri Marret Gravure: Soldats dans une tranchée",
         "Objet": "",
         "Titre/Inscription": "Sodats dans une tranchée au milieu du champs de bataille",
@@ -217,12 +184,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Bois gravés aquarellés 18/40 Support papier",
         "Dimensions ": "32 x 26 cm",
-        "Auteur/Editeur": "Auteur: Henri Marret",
-        "": ""
+        "Auteur/Editeur": "Auteur: Henri Marret"
     },
     {
         "﻿N°inventaire": "8Fi 17",
-        "Mode d'Acquisition": "Achat 2009",
         "Descriptif": "8Fi 17 - Henri Marret. Gravure: Ruines d’une église ",
         "Objet": "",
         "Titre/Inscription": "Ruine d'une église à Monfaucon",
@@ -230,12 +195,10 @@ var ArcDatabase = [
         "Lieu": "Montfaucon",
         "Technique/support": "Bois gravés aquarellés 12/50  Support papier",
         "Dimensions ": "25 x 32",
-        "Auteur/Editeur": "Henri Marret",
-        "": ""
+        "Auteur/Editeur": "Henri Marret"
     },
     {
         "﻿N°inventaire": "8Fi 18",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 19- J. Thil. Album de  six dessins aquarellés représentant l'arrivée d'un blessé à l'ambulance, sa décoration, la convalescence, le bain de soleil, la visite, le moral est toujours bon",
         "Objet": "",
         "Titre/Inscription": "Aux ambulances par J. Thil 1917-1918",
@@ -243,12 +206,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Estampes. Dessins aquarellés sur papier velin avec signature de l'auteur. 154/200",
         "Dimensions ": "25 x 32 cm",
-        "Auteur/Editeur": "J. Thill édition de luxe Paris",
-        "": ""
+        "Auteur/Editeur": "J. Thill édition de luxe Paris"
     },
     {
         "﻿N°inventaire": "8Fi 19",
-        "Mode d'Acquisition": "Don Louis Boutolleau",
         "Descriptif": "8Fi 19 - Reproduction d'une gravure: La Vendée militaire",
         "Objet": "",
         "Titre/Inscription": "Pacification de la Vendée",
@@ -256,12 +217,10 @@ var ArcDatabase = [
         "Lieu": "Vendée ",
         "Technique/support": "Reproduction d'une gravure",
         "Dimensions ": "30 x40 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 20",
-        "Mode d'Acquisition": "Don Louis Boutolleau",
         "Descriptif": "8Fi 20 - Reproduction d'une : La vendée militaire",
         "Objet": "",
         "Titre/Inscription": "Noyade en Loire des prisonniers vendéens sur l'ordre de Carrier",
@@ -269,12 +228,10 @@ var ArcDatabase = [
         "Lieu": "Vendée",
         "Technique/support": "Reproduction d'une gravure",
         "Dimensions ": "30 x 40 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 21",
-        "Mode d'Acquisition": "Don Roger  Guy",
         "Descriptif": "8Fi 21 - Reproduction d'une gravure: Baie de Noirmoutier et de Bourgneuf",
         "Objet": "",
         "Titre/Inscription": "Carte de Noirmoutier. Carte topographique de l'isle de Noirmoutier dédiée au Roi par le très obeissant serviteur Commard de Puylorson",
@@ -282,12 +239,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "Reproduction colorisée d'une gravure",
         "Dimensions ": "30 x 40 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 22",
-        "Mode d'Acquisition": "Don Marcel Ciment-Serre",
         "Descriptif": "8Fi 22 - Catalogue d'une vente aux enchères - 42 petites scènes de la Révolution Française  ",
         "Objet": "",
         "Titre/Inscription": "Histoire - Révolution Française",
@@ -295,12 +250,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier - Gravure sur acier",
         "Dimensions ": "8 x 13 cm et 24 x 17 cm 25,5 x 20 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 23",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 23 - Lithographie \" La Loge\" habitation de d'Elbée tirée de'\"Album Vendéen\"",
         "Objet": "",
         "Titre/Inscription": "La Loge, habitation de d'Elbée",
@@ -308,12 +261,10 @@ var ArcDatabase = [
         "Lieu": "Vendée",
         "Technique/support": "Papier. Dessin de T. Drake, imprimerie Lemercier, Paris, Lithographie de Daniaud",
         "Dimensions ": "30 x 43cm",
-        "Auteur/Editeur": "T. Drake - Imprimerie Lemercier - Lainé frères éditeurs à Angers, Lithographe Daniaud",
-        "": ""
+        "Auteur/Editeur": "T. Drake - Imprimerie Lemercier - Lainé frères éditeurs à Angers, Lithographe Daniaud"
     },
     {
         "﻿N°inventaire": "8Fi 24",
-        "Mode d'Acquisition": "Don Herard ",
         "Descriptif": "8 Fi 24 - Sans doute le Louvre, entrée du vestibule",
         "Objet": "",
         "Titre/Inscription": "",
@@ -321,12 +272,10 @@ var ArcDatabase = [
         "Lieu": "Paris",
         "Technique/support": "Papier. Reproduction d'une gravure",
         "Dimensions ": "32 x 48 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8Fi 25",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 25/1, 8 Fi 25/2, 8 Fi 25/3 - A. Amiaux. Reproduction de dessins aquarellés vendus au profit des blessés ",
         "Objet": "",
         "Titre/Inscription": "Au profit des blessés. Eh bien les bleus, savez-vous si vous les pointez en pleine lune, ils finiront par vous prendre pour des astronomes - Comment nous les soignons - Education d'un jeune prince",
@@ -334,12 +283,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier - Reproduction de dessins",
         "Dimensions ": "25 x 32 ",
-        "Auteur/Editeur": "Auteur: A. Amiot, éditeur: Chebrou à Niort",
-        "": ""
+        "Auteur/Editeur": "Auteur: A. Amiot, éditeur: Chebrou à Niort"
     },
     {
         "﻿N°inventaire": "8Fi 26",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 27 - Credit Lyonnais. Affiche représentant un drapeau ensanglanté tenu par un militaire sur un globe",
         "Objet": "",
         "Titre/Inscription": "Liberté. 3e emprunt de la défense nationale. Crédit Lyonnais",
@@ -347,12 +294,10 @@ var ArcDatabase = [
         "Lieu": "crédit Lyonnais",
         "Technique/support": "reproduction d'une aquarelle ",
         "Dimensions ": "31 x 22 cm",
-        "Auteur/Editeur": "Editeur Devanbez.fr",
-        "": ""
+        "Auteur/Editeur": "Editeur Devanbez.fr"
     },
     {
         "﻿N°inventaire": "8Fi 27",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "Reproduction d'une gravure",
         "Objet": "",
         "Titre/Inscription": "",
@@ -360,12 +305,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier vu de la Gaillardière",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "30 x 20 cm",
-        "": ""
+        "Auteur/Editeur": "30 x 20 cm"
     },
     {
         "﻿N°inventaire": "8Fi 28",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 28/1, 8 Fi 28/2, 8 Fi 28/3 8 Fi 28/4, 8 Fi 28/5, 8 Fi 28/6 - Dupremot? Couverture de livre intitulé \"Captivité\", 5 scènes humoristiques de captivité",
         "Objet": "",
         "Titre/Inscription": "Migetti - La crise du feu - Pessimisme - Les limes dans le pâté - L'optimisme",
@@ -373,12 +316,10 @@ var ArcDatabase = [
         "Lieu": "Nuremberg",
         "Technique/support": "Reproduction sur papier",
         "Dimensions ": "28 x 38 cm",
-        "Auteur/Editeur": "Auteur: Dupremot ? Editeur Jacques Vantrin",
-        "": ""
+        "Auteur/Editeur": "Auteur: Dupremot ? Editeur Jacques Vantrin"
     },
     {
         "﻿N°inventaire": "8Fi 29",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 29/1, 8 Fi 29/2, 8 Fi 29/3, 8Fi 29/4 - Manfretin? 4 Reproductions de dessins humoristiques au fusain ",
         "Objet": "",
         "Titre/Inscription": "Ch'est Bibi qui a le carnet de braise - F…ez le camp! Qand on ne sait pas faire le beau on ne demande pas de susucre!!! - Une bath carte, pour une fois ce sera la carte des vins! - Nous on n'est pas visés… On bouffe qand même de la vache enragée",
@@ -386,12 +327,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Reproduction sur papier",
         "Dimensions ": "27 x 37 cm",
-        "Auteur/Editeur": "Auteur: Manfretin?",
-        "": ""
+        "Auteur/Editeur": "Auteur: Manfretin?"
     },
     {
         "﻿N°inventaire": "8Fi 30",
-        "Mode d'Acquisition": "Don B. Dronneau",
         "Descriptif": "8 Fi 30 -Topgraphie d'un dessin Dronneau - Noirmoutier la Tour Plantier 22/77",
         "Objet": "",
         "Titre/Inscription": "Noirmoutier, Bois de la Chaise, la tour Plantier, l'Anse Rouge. Topographie Vendée. 22/77 ",
@@ -399,12 +338,10 @@ var ArcDatabase = [
         "Lieu": "Ile de Noirmoutier",
         "Technique/support": "Topographie d'un dessin à la pointe séche aquarellé",
         "Dimensions ": "37 x 26 cm",
-        "Auteur/Editeur": "Auteur: B.Dronneau",
-        "": ""
+        "Auteur/Editeur": "Auteur: B.Dronneau"
     },
     {
         "﻿N°inventaire": "8Fi 31",
-        "Mode d'Acquisition": "Don B. Dronneau",
         "Descriptif": "8 Fi 31 -Dronneau.  Ile de Noirmoutier les moulins avant XIXe n° 63 A",
         "Objet": "",
         "Titre/Inscription": "Topographie Vendée B Dronneau",
@@ -412,12 +349,10 @@ var ArcDatabase = [
         "Lieu": "Ile de Noirmoutier",
         "Technique/support": "Topographie d'un carte de l'Ile de Noirlmoutier illustrée de dessins en couleur représentant l'emplacement des moulins à vent au XIXe siècle",
         "Dimensions ": "50 x 70",
-        "Auteur/Editeur": "Auteur: Dronneau",
-        "": ""
+        "Auteur/Editeur": "Auteur: Dronneau"
     },
     {
         "﻿N°inventaire": "8Fi 32",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 32 - Launeau. Linogravure d'un dessin à l'encre de chine 3/12",
         "Objet": "",
         "Titre/Inscription": "",
@@ -425,12 +360,10 @@ var ArcDatabase = [
         "Lieu": "Ile de Noirmoutier",
         "Technique/support": "Lino gravure collée sur carton",
         "Dimensions ": "18 X 26 cm",
-        "Auteur/Editeur": "Auteur: Launeau",
-        "": ""
+        "Auteur/Editeur": "Auteur: Launeau"
     },
     {
         "﻿N°inventaire": "8Fi 33",
-        "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 33 - Pierre Courtois. Le cimetière des bateaux à Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "Le cimetière des bateaux à Noirmoutier en l'Ïle (15,16,17,18 juillet 2009) pour les amis de l'Ïle de Noirmoutier, cordial souvenir, Courtois ",
@@ -438,12 +371,10 @@ var ArcDatabase = [
         "Lieu": "Ile de Noirmoutier",
         "Technique/support": "eau-Forte continuée pour le 3eme état en 2016, 4/4",
         "Dimensions ": "39 x 29 cm",
-        "Auteur/Editeur": "Auteur: Pierre Courtois",
-        "": ""
+        "Auteur/Editeur": "Auteur: Pierre Courtois"
     },
     {
         "﻿N°inventaire": "8Fi 34",
-        "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 34- Pierre Courtois. Le marais de Müllembourg",
         "Objet": "",
         "Titre/Inscription": "N° 439 Noirmoutier et les Marais de Müllembourg. Tous mes vœux pour 2016, cordial souvenir, Courtois",
@@ -451,12 +382,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'ïle",
         "Technique/support": "eau forte, épreuve du 2eme état ",
         "Dimensions ": "39 x 29 cm",
-        "Auteur/Editeur": "Auteur: Pierre Courtois",
-        "": ""
+        "Auteur/Editeur": "Auteur: Pierre Courtois"
     },
     {
         "﻿N°inventaire": "8Fi 35",
-        "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 35- Pierre Courtois. Le  Port et le Château de Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "Le port de Noirmoutier, l'église et le château. 4/80",
@@ -464,12 +393,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'ïle",
         "Technique/support": "Eau forte",
         "Dimensions ": "41 x 34 cm",
-        "Auteur/Editeur": "Auteur: Pierre Courtois",
-        "": ""
+        "Auteur/Editeur": "Auteur: Pierre Courtois"
     },
     {
         "﻿N°inventaire": "8 Fi 36/1, 8Fi36/2, 8 Fi 36/3, 8Fi 36/4",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 36/ 1, 8 Fi 36/2, 8 Fi 36/3 - Paul Adrien Bouroux. 3 dessins au fusain qui ont servi à illustrer le livre de Jean Yole \"Le marais de Monts en Vendée, son rivage et ses rives\": ",
         "Objet": "",
         "Titre/Inscription": "hôtel de Noizillac, Hôtel Jacobsen, Noirmoutier, Noirmoutier, petite place.",
@@ -477,12 +404,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'Île",
         "Technique/support": "Papier. Dessins au fusain ",
         "Dimensions ": "27 x 23,5 cm",
-        "Auteur/Editeur": "Auteur: Paul Adrien Bouroux",
-        "": ""
+        "Auteur/Editeur": "Auteur: Paul Adrien Bouroux"
     },
     {
         "﻿N°inventaire": "8Fi 37",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "Femmes de Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "Suite de costume n° 6",
@@ -490,12 +415,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Papier repro litho",
         "Dimensions ": "35,5 x  27 cm",
-        "Auteur/Editeur": "Lithographie de Charpentier",
-        "": ""
+        "Auteur/Editeur": "Lithographie de Charpentier"
     },
     {
         "﻿N°inventaire": "8 Fi 38",
-        "Mode d'Acquisition": "Don Gilles Béranger   Fonds 33 E",
         "Descriptif": "8 Fi 38/1,8 Fi 38/2, 8 Fi/3, 8 Fi/4 . 4 dessins représentant la future propriété des louinas: Baie de Saint Pierre, plan du terrain, façade de la maison, esquisse du jardin",
         "Objet": "",
         "Titre/Inscription": "",
@@ -503,12 +426,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Dessins sur papier, certains sont aquarellés",
         "Dimensions ": "99 x 66 cm, 27 x 21 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 39",
-        "Mode d'Acquisition": "Don Jean Remi Rhoné      Fonds E 74",
         "Descriptif": "8 Fi 39- Claire Pineau. Estacade du Bois de la Chaise à Noirmoutier en l'Île",
         "Objet": "",
         "Titre/Inscription": "Estacade de Noirmoutier vue du Fort Saint-Pierre",
@@ -516,12 +437,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Papier collé sue carton, encadré. Dessin au crayon gras",
         "Dimensions ": "28 x 35 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 40",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 40 Maxime Lastanerre",
         "Objet": "",
         "Titre/Inscription": "",
@@ -529,12 +448,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 41",
-        "Mode d'Acquisition": "Don Gauducheau         Fonds ",
         "Descriptif": "8 Fi 41 - 2 dessins colorisés représentant des noirmoutrins devant le passage du Gois",
         "Objet": "",
         "Titre/Inscription": "Noirmoutier - Le Gois  Coiffe: La Quichenot' et Noirmoutier  type de marin de l'Herbaudière  ",
@@ -542,12 +459,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Dessins crayons couleur",
         "Dimensions ": "H 32 x 24 cm",
-        "Auteur/Editeur": "Auteur: Clement Gauducheau",
-        "": ""
+        "Auteur/Editeur": "Auteur: Clement Gauducheau"
     },
     {
         "﻿N°inventaire": "8 Fi 42",
-        "Mode d'Acquisition": "Don Alain Mitry de Nantes",
         "Descriptif": "8 Fi 42 - Portrait d'Ambroise Baudry (1838-1906)",
         "Objet": "",
         "Titre/Inscription": "Portrait d'Ambroise Baudry architecte. J Coraboeuf",
@@ -555,12 +470,10 @@ var ArcDatabase = [
         "Lieu": "Paris - Noirmoutier",
         "Technique/support": "Dessin au crayon - Papier - Encadré",
         "Dimensions ": "H 17 x 12 cm",
-        "Auteur/Editeur": "Auteur: J. Coraboeuf",
-        "": ""
+        "Auteur/Editeur": "Auteur: J. Coraboeuf"
     },
     {
         "﻿N°inventaire": "8 Fi 43",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 43 a,b,c  3 dessins crayon d'Evain sous verre",
         "Objet": "",
         "Titre/Inscription": "La Pucerais, l'église de La Guérinière, La Guérinière 1945",
@@ -568,12 +481,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "H 15 x 21, H 12 x 17, H 15 x 21",
-        "Auteur/Editeur": "Claude Evain",
-        "": ""
+        "Auteur/Editeur": "Claude Evain"
     },
     {
         "﻿N°inventaire": "8 Fi 44",
-        "Mode d'Acquisition": "Don Pierre Courtois",
         "Descriptif": "8 Fi 44- Pierre Courtois. Le marais de la vache",
         "Objet": "",
         "Titre/Inscription": "Le marais de la vache. 1/5, 3e état",
@@ -581,12 +492,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'ïle",
         "Technique/support": "Eau forte",
         "Dimensions ": "41 x 34 cm",
-        "Auteur/Editeur": "Auteur: Pierre Courtois, peintre de la marine",
-        "": ""
+        "Auteur/Editeur": "Auteur: Pierre Courtois, peintre de la marine"
     },
     {
         "﻿N°inventaire": "8 Fi 45 ",
-        "Mode d'Acquisition": "Don Jean Laidin",
         "Descriptif": "8 Fi 45 - Composition imaginaire sur Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "Noirmoutier ",
@@ -594,12 +503,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Cartes postales  collées sur tranche ovale de sapin",
         "Dimensions ": "H 14 x 40",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 46",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 46 – Portraits de Marie Anne Viaud et de Pierre Philippe Lefèbre, présentés dans le cadre d’origine\nObjet : Note au dos du 1e portrait : Marie Anne Viaud née à Noirmoutier en 1752, fille d’André Viaud et de Jeanne Favreau, mariée en 1775 à Pierre Philippe Joseph Lefèbvre, négociant, né à St Omer. \nNote au dos du 2e portrait : Pierre Philippe Joseph Lefèbvre, négociant, né à St Omer en 1750, arrivé à Noirmoutier en 1768 et marié en 1775 à Marie Anne Viaud, fille d’André Viaud et de Jeanne Favreau. Portraits de 1778.\n\n\n\n\n\n\n",
         "Objet": "",
         "Titre/Inscription": "\n\n\n\n\n\n\n",
@@ -607,12 +514,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier\n",
         "Technique/support": "Reproductions photographiques de dessins présentées sur du papier fantaisie. Cadre d'origine",
         "Dimensions ": "Cadre 16 x 12,5cm. Photos 5 x 12 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 47",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 47 - Le Bois de la Chaise au environ de Saint Pierre",
         "Objet": "",
         "Titre/Inscription": "",
@@ -620,12 +525,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Dessin au crayon",
         "Dimensions ": " 21,5 x 30",
-        "Auteur/Editeur": "Auteur: Inconnu",
-        "": ""
+        "Auteur/Editeur": "Auteur: Inconnu"
     },
     {
         "﻿N°inventaire": "8 Fi 48 ",
-        "Mode d'Acquisition": "Genevieve Coulombeau",
         "Descriptif": "8 Fi 48- Guy Ganachaud. 7 dessins présentés dans un livret \"Visage de Marie-\"",
         "Objet": "",
         "Titre/Inscription": "Notre dame de chez nous- Notre Dame des Longues Veilles- Notre Dame des exclus- Notre Dame des Longues nuits- Notre Dame de compassion- Notre Dame de bonne garde- Notre Dame de chaque jour",
@@ -633,12 +536,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Dessins parfois rehaussé de couleur acrylique de la main de l'artiste",
         "Dimensions ": "H 32 x 34,5",
-        "Auteur/Editeur": "Auteur: Guy Ganachaud",
-        "": ""
+        "Auteur/Editeur": "Auteur: Guy Ganachaud"
     },
     {
         "﻿N°inventaire": "8 Fi 49",
-        "Mode d'Acquisition": "Don Juliane Bogaert",
         "Descriptif": "8 Fi 49:1, 8 Fi 49/2- Juliane Bogaert. 2 dessins au feutre l'un représentant des éssèpes l'autre des marais",
         "Objet": "",
         "Titre/Inscription": "L'un est intitulé \"Luzeronde\"",
@@ -646,12 +547,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier ",
         "Technique/support": "Dessins feutre sur papier canson",
         "Dimensions ": "27 x 37 cm",
-        "Auteur/Editeur": "auteur: Julianne Bogaert",
-        "": ""
+        "Auteur/Editeur": "auteur: Julianne Bogaert"
     },
     {
         "﻿N°inventaire": "8 Fi 50",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 50- Marie Laurencin. Le château de Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "",
@@ -659,12 +558,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Dessin au crayon, encadré",
         "Dimensions ": "  ",
-        "Auteur/Editeur": "Auteur: Marie Laurencin",
-        "": ""
+        "Auteur/Editeur": "Auteur: Marie Laurencin"
     },
     {
         "﻿N°inventaire": "8 Fi 51",
-        "Mode d'Acquisition": "Don Maurice Quenet",
         "Descriptif": "8 Fi 51- Reproduction d'une Peinture: La Tour Plantier Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "",
@@ -672,12 +569,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Reproduction. Papier",
         "Dimensions ": "42 x 31 cm",
-        "Auteur/Editeur": "Auteur: Bidault",
-        "": ""
+        "Auteur/Editeur": "Auteur: Bidault"
     },
     {
         "﻿N°inventaire": "8 Fi 52",
-        "Mode d'Acquisition": "Don",
         "Descriptif": "8 Fi 52/1, 8 Fi 52/2. Dessin.  Reproductions de 2 Cartes de la baie de Bougneuf et de l'île de Noirmoutier à basse mer illustrant les différentes activités de ces lieux.",
         "Objet": "",
         "Titre/Inscription": "",
@@ -685,12 +580,10 @@ var ArcDatabase = [
         "Lieu": "Baie de Bourgneuf",
         "Technique/support": "Reproduction aquarellée après tirage",
         "Dimensions ": "75 x 60 cm",
-        "Auteur/Editeur": "Auteur: Jean Vincent-Darasse",
-        "": ""
+        "Auteur/Editeur": "Auteur: Jean Vincent-Darasse"
     },
     {
         "﻿N°inventaire": "8 Fi 53",
-        "Mode d'Acquisition": "Don Corbrejaud",
         "Descriptif": "8 Fi 53- Reproduction couleur de la carte de de la baie de Bourgneuf et de l'île de Noirmoutier",
         "Objet": "",
         "Titre/Inscription": "",
@@ -698,12 +591,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "Reproduction couleur",
         "Dimensions ": "46 x 32 cm",
-        "Auteur/Editeur": "Auteur présumé Jean Vincent-Darasse",
-        "": ""
+        "Auteur/Editeur": "Auteur présumé Jean Vincent-Darasse"
     },
     {
         "﻿N°inventaire": "8 Fi 54",
-        "Mode d'Acquisition": "Don Sellig du F",
         "Descriptif": "8 Fi 54- lithographie d'un dessin aquarellé représentant la vie animée du port et de la ville de Noirmoutier en l'île ",
         "Objet": "",
         "Titre/Inscription": "ïle de Noirmoutier",
@@ -711,12 +602,10 @@ var ArcDatabase = [
         "Lieu": "Île de Noirmoutier",
         "Technique/support": "Lithographie encadrée. 15/200",
         "Dimensions ": "78 x 59 cm",
-        "Auteur/Editeur": "Auteur Gilles Ansart dit  Sellig du F",
-        "": ""
+        "Auteur/Editeur": "Auteur Gilles Ansart dit  Sellig du F"
     },
     {
         "﻿N°inventaire": "8 Fi 55",
-        "Mode d'Acquisition": "Do Mme Guy Ganachaud",
         "Descriptif": "8 Fi - Lithographie d'un dessin de Guy Ganachaud",
         "Objet": "",
         "Titre/Inscription": "La tempête",
@@ -724,12 +613,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Lithographie d'un dessin. A n°3",
         "Dimensions ": "32 x 24 cm",
-        "Auteur/Editeur": "Guy Ganachaud",
-        "": ""
+        "Auteur/Editeur": "Guy Ganachaud"
     },
     {
         "﻿N°inventaire": "8 Fi 56",
-        "Mode d'Acquisition": "Don Gilles Béranger. Fonds E 33 ",
         "Descriptif": "8 Fi 56/1 et 8 Fi 56/2. 2 dessins représentants l'un une Gloriette dans un bois , l'autre l'autre des arbres dans un paysage montagneux ",
         "Objet": "",
         "Titre/Inscription": "",
@@ -737,12 +624,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "Dessins à la mine de plomb",
         "Dimensions ": "20 x 26 cm",
-        "Auteur/Editeur": "l'un est signé P.H. l'autre J.C 1850",
-        "": ""
+        "Auteur/Editeur": "l'un est signé P.H. l'autre J.C 1850"
     },
     {
         "﻿N°inventaire": "8 Fi 57",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 57- Charles Marionneau. Dessin dans son cadre doré d'origine de l'île du Pilier",
         "Objet": "",
         "Titre/Inscription": "L'ilot du Pilier, de la Linière, ile de Noirmoutier 1869",
@@ -750,12 +635,10 @@ var ArcDatabase = [
         "Lieu": "Ile de Noirmoutier",
         "Technique/support": "Dessin à la plume",
         "Dimensions ": "31 x 33 cm",
-        "Auteur/Editeur": "Charles Marionneau",
-        "": ""
+        "Auteur/Editeur": "Charles Marionneau"
     },
     {
         "﻿N°inventaire": "8 Fi 58",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8Fi 58 Tancrède Abraham Fonds d'atelier de T a 1836-1895",
         "Objet": "",
         "Titre/Inscription": "Noirmoutier vu du haut de la Tour Plantier Château et",
@@ -763,12 +646,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 59",
-        "Mode d'Acquisition": "Don Mme Huyebaert Fonds 128 E",
         "Descriptif": "8 F i 59- a et b Huygbaert",
         "Objet": "Plan",
         "Titre/Inscription": "Noirmoutier 1768",
@@ -776,12 +657,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 60 ",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 60 Noirmoutier au XVIIe  (316)",
         "Objet": "Carte",
         "Titre/Inscription": "",
@@ -789,12 +668,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 FI 61",
-        "Mode d'Acquisition": "Don du Docteur Oudot, 1960",
         "Descriptif": "8 FI 61- Gravure de François Bonneville: Portrait de Charrette dans portrait de personnages célèbres de la Révolution. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-88)",
         "Objet": "Portrait",
         "Titre/Inscription": "Charrette général de l'armée catholique et royale, né à Coufféen 1763, fusillé à Nantes le 9 germinal An 4.  F. Bonneville Del., A Paris",
@@ -802,12 +679,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": " Papier Eau forte",
         "Dimensions ": "25,5 x 34 cm",
-        "Auteur/Editeur": "Auteur:  François de Bonneville",
-        "": ""
+        "Auteur/Editeur": "Auteur:  François de Bonneville"
     },
     {
         "﻿N°inventaire": "8 Fi 62",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 62- Gravure le Storm",
         "Objet": "Marine",
         "Titre/Inscription": "Tempête représentant celle qui força le Roy Georges 1er d'aborder un Raye (publié avec l'accord du parlement en1745)",
@@ -815,12 +690,10 @@ var ArcDatabase = [
         "Lieu": "Angleterre",
         "Technique/support": "Papier, gravure",
         "Dimensions ": "",
-        "Auteur/Editeur": "50 x 37 cm",
-        "": ""
+        "Auteur/Editeur": "50 x 37 cm"
     },
     {
         "﻿N°inventaire": "8 Fi 63",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 63",
         "Objet": "",
         "Titre/Inscription": "",
@@ -828,12 +701,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 64 ",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 64 Rémi Imbert",
         "Objet": "",
         "Titre/Inscription": "",
@@ -841,12 +712,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 65",
-        "Mode d'Acquisition": "Don ",
         "Descriptif": "8 Fi 65- Lithographie de Daniel Dufour: Aquarelle représentant une plage du Bois de la Chaise , une villa et un couple vers 1900",
         "Objet": "Paysage",
         "Titre/Inscription": "Daniel Dufour, Noirmoutier 2009",
@@ -854,12 +723,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier",
         "Technique/support": "Papier, lithographie couleur numèrotée 39/100",
         "Dimensions ": "30 x 21 cm",
-        "Auteur/Editeur": "Auteur Daniel Dufour",
-        "": ""
+        "Auteur/Editeur": "Auteur Daniel Dufour"
     },
     {
         "﻿N°inventaire": "8 Fi 68",
-        "Mode d'Acquisition": "",
         "Descriptif": "",
         "Objet": "",
         "Titre/Inscription": "",
@@ -867,12 +734,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 70",
-        "Mode d'Acquisition": "Achat",
         "Descriptif": "8 Fi 70-  Octave de Rochebrune.  Gravure: Le Bois de la Chaise. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.1)",
         "Objet": "Art",
         "Titre/Inscription": "Bois de la Chaise , La Tour Plantier, vue prise de l'Anse Rouge",
@@ -880,12 +745,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'île",
         "Technique/support": "Eau forte",
         "Dimensions ": "51,5 x 36,5 cm",
-        "Auteur/Editeur": "Octave de Rochebrune",
-        "": ""
+        "Auteur/Editeur": "Octave de Rochebrune"
     },
     {
         "﻿N°inventaire": "8 Fi 71",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 71- Octave de Rochebrune. Gravure: Le Fort Saint Pierre. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.2)",
         "Objet": "Art",
         "Titre/Inscription": "Noirmoutier ruines du Fort Saint Pierre",
@@ -893,12 +756,10 @@ var ArcDatabase = [
         "Lieu": "Noirmoutier en l'Ile",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "45 x 30 cm",
-        "Auteur/Editeur": "Octave de Rochebrune",
-        "": ""
+        "Auteur/Editeur": "Octave de Rochebrune"
     },
     {
         "﻿N°inventaire": "8 Fi 72",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 72-  WilliamEllis. Gravure: The Great Eastern Steam Ship. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.53)",
         "Objet": "Art. Navire à roue",
         "Titre/Inscription": "The GreatEastern Steam Ship            ",
@@ -906,12 +767,10 @@ var ArcDatabase = [
         "Lieu": "Londres,Royaume-Uni",
         "Technique/support": "Papier.Lithographie",
         "Dimensions ": "47,5  x36 cm",
-        "Auteur/Editeur": "Auteur: William Ellis .   Editeur: Clarke",
-        "": ""
+        "Auteur/Editeur": "Auteur: William Ellis .   Editeur: Clarke"
     },
     {
         "﻿N°inventaire": "8 Fi 73",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 73- Pierre Savart.  Gravure : Ville Fortifiée . En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984-58)",
         "Objet": "Art",
         "Titre/Inscription": "Savart.P 1779",
@@ -919,12 +778,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "  Papier.  Eau forte façon sanguine",
         "Dimensions ": "23,5 x 18,5 cm",
-        "Auteur/Editeur": "Auteur: Pierre Savart",
-        "": ""
+        "Auteur/Editeur": "Auteur: Pierre Savart"
     },
     {
         "﻿N°inventaire": "8 FI 74",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 74- Gravure. Moulin è eau. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984-59)",
         "Objet": "Art.Moulin à eau",
         "Titre/Inscription": "D3.F",
@@ -932,12 +789,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier.   Eau forte",
         "Dimensions ": "25 x 28 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 75",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 75- Césius. Gravure:  Dame à la Licorne.                                       En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.60)",
         "Objet": "Art",
         "Titre/Inscription": "28 c, Cesius fecit. Westerhout. Form. Priut. S.Pontifirisis.",
@@ -945,12 +800,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier.  Pointe sèche",
         "Dimensions ": "25 x 20 cm",
-        "Auteur/Editeur": "Auteur: Cécius                                         Graveur: Arnold  Von Westerhout",
-        "": ""
+        "Auteur/Editeur": "Auteur: Cécius                                         Graveur: Arnold  Von Westerhout"
     },
     {
         "﻿N°inventaire": "8 Fi 76",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 Fi 76- Gravure d'Hermann Von Swanevelt: Saint Antoine et Saint Jérôme. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.61)",
         "Objet": "Art",
         "Titre/Inscription": "Saint Antoine et Saint Jérôme dans une grotte",
@@ -958,12 +811,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "32,5 x 23,5 cm",
-        "Auteur/Editeur": "Auteur et graveur:  Hermann Von Swanevelt",
-        "": ""
+        "Auteur/Editeur": "Auteur et graveur:  Hermann Von Swanevelt"
     },
     {
         "﻿N°inventaire": "8 FI 77",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 FI 77- Gravure d'Hermann Von Swaneveit: Saint Antoine et le Satyre. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-62)",
         "Objet": "Art",
         "Titre/Inscription": "Saint Antoine et le Satire. Erman Von Swanevelt inventor fecit cum privilegia regis",
@@ -971,12 +822,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier Eau forte",
         "Dimensions ": "31 x 24 cm",
-        "Auteur/Editeur": "Herman Von Swanevelt",
-        "": ""
+        "Auteur/Editeur": "Herman Von Swanevelt"
     },
     {
         "﻿N°inventaire": "8 FI 78",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 FI 78- Gravure de B. Paris: Vue de la Meilleraie. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-82) AU DOS: Dessin de Bagnolet et Pellray",
         "Objet": "Art",
         "Titre/Inscription": "Vue de la Meilleraie, retraite de trappistes, près de Mont. (Cote-d'or)",
@@ -984,12 +833,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier Eau forte",
         "Dimensions ": "21,8 x 15,5 cm ",
-        "Auteur/Editeur": "Auteur:B. Paris  Graveur: Musseau",
-        "": ""
+        "Auteur/Editeur": "Auteur:B. Paris  Graveur: Musseau"
     },
     {
         "﻿N°inventaire": "8 FI 79",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 FI 79- Gravure de Charles-Claude Bachelier: Palais de Justice de Rouen. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-83)",
         "Objet": "Architecture",
         "Titre/Inscription": "Le Palais de Justice de Rouen ",
@@ -997,12 +844,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier Eau forte",
         "Dimensions ": "34 x 24 cm",
-        "Auteur/Editeur": "Auteur graveur: Charles-Claude Bachelier    Editeur: A. Hauser",
-        "": ""
+        "Auteur/Editeur": "Auteur graveur: Charles-Claude Bachelier    Editeur: A. Hauser"
     },
     {
         "﻿N°inventaire": "8 FI 80",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 FI 80- Gravure de Locauchie: Paysan Vendéen. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-84)",
         "Objet": "Ethnographie",
         "Titre/Inscription": "Paysans Vendéens, Vendée Militaire",
@@ -1010,12 +855,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier Eau forte",
         "Dimensions ": "15,8 x 13,2 cm",
-        "Auteur/Editeur": "Auteur et Graveur: Locauchie",
-        "": ""
+        "Auteur/Editeur": "Auteur et Graveur: Locauchie"
     },
     {
         "﻿N°inventaire": "8 FI 81",
-        "Mode d'Acquisition": "",
         "Descriptif": "8 FI 81- Gravure de Morteret: Entrée de Charrette à Nantes. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-85)",
         "Objet": "Episode des guerres de Vendée",
         "Titre/Inscription": "France Militaire -  Pacification de la Jaunie - France Militaire",
@@ -1023,12 +866,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier Eau forte",
         "Dimensions ": "18,5 x 14 cm",
-        "Auteur/Editeur": "Auteur Morteret",
-        "": ""
+        "Auteur/Editeur": "Auteur Morteret"
     },
     {
         "﻿N°inventaire": "8 FI 83",
-        "Mode d'Acquisition": "",
         "Descriptif": "8FI 83- Gravure: portrait d'un officier de marine. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-90)",
         "Objet": "Portrait",
         "Titre/Inscription": "Portrait d'un officier de marine",
@@ -1036,12 +877,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier Eau forte",
         "Dimensions ": "14,2 x 21 cm",
-        "Auteur/Editeur": "Auteur:  \"Illisible\"",
-        "": ""
+        "Auteur/Editeur": "Auteur:  \"Illisible\""
     },
     {
         "﻿N°inventaire": "8FI 84",
-        "Mode d'Acquisition": "",
         "Descriptif": "8FI84- Gravure de Jean Baptiste Paulin Guerin: Portrait d'Henri de la Rochejaquelin.  En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-96)",
         "Objet": "Portrait",
         "Titre/Inscription": "Henri de la Rochejaquelin",
@@ -1049,12 +888,10 @@ var ArcDatabase = [
         "Lieu": "Paris France",
         "Technique/support": "Papie. Lithographie",
         "Dimensions ": "43 x 60 cm",
-        "Auteur/Editeur": "Auteur : Jean Baptiste Paulin Guerin    Dessinateur: Zéphirin Belliard",
-        "": ""
+        "Auteur/Editeur": "Auteur : Jean Baptiste Paulin Guerin    Dessinateur: Zéphirin Belliard"
     },
     {
         "﻿N°inventaire": "8 FI 85",
-        "Mode d'Acquisition": "Don MR Venereau",
         "Descriptif": "8 FI 85-  Marine de guerre de France  .   En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-97)",
         "Objet": "Marine",
         "Titre/Inscription": "",
@@ -1062,12 +899,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Heliogravure",
         "Dimensions ": "41,5 x 32,5 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 86    ",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 FI 86- Gravure:  Portrait de Louis II de la Trémoille (1460-1525 (Pavie), vicomte de Thouars, Prnce de Talmont, conseiller du Roi Charles VIII, géneral lors des campagnes de Naples et de Milan, marié à Luisa de Borgia.  En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-99)",
         "Objet": "Portrait",
         "Titre/Inscription": "LOUIS DE LA TREMOILLE VICOMTE DE THOUARS, PRINCE DE TALMOND",
@@ -1075,12 +910,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier; Gravure aquarellée",
         "Dimensions ": "20,5 X 25cm ",
-        "Auteur/Editeur": "Auteur: Antoine-Louis Sergent                Editeur: Blin ",
-        "": ""
+        "Auteur/Editeur": "Auteur: Antoine-Louis Sergent                Editeur: Blin "
     },
     {
         "﻿N°inventaire": "8 Fi 87",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 87- Gravures: Portrait de Louis II de la Trémoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.106 a et 984.106 b)",
         "Objet": "Portrait",
         "Titre/Inscription": "LOVIS S DE LA TREMOVILLE, Tableau du Temps, La Tremoille (Louis IIe du nom Sire de +1525)",
@@ -1088,12 +921,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier, Lithographie",
         "Dimensions ": "21 x 29,5",
-        "Auteur/Editeur": "Diagraphe et Pantographe: Lugi Calamatta, diagraphe de Charles Gavard",
-        "": ""
+        "Auteur/Editeur": "Diagraphe et Pantographe: Lugi Calamatta, diagraphe de Charles Gavard"
     },
     {
         "﻿N°inventaire": "8 Fi 88",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 88- Gravure: Portrait de Louis II de la Trémoille qui devint seigneur de Noirmoutier  après la mort de son frère Jehan en 1507, abbé de La Blanche, Cardinal d'Auch. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.354)",
         "Objet": " Portait",
         "Titre/Inscription": "Louis de La Trimouille, vicomte de Thouars, gen.des armées de France , Gouver. D Bourgogne sous les Rois Charles 8, Louis12 et François I. Il fut tué devant Pavis âgé de 80 ans",
@@ -1101,12 +932,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier, eau forte",
         "Dimensions ": "34 x 45 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 89",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 89- Gravure: Victoire de Louis II de La Trémoille sur le Duc de Bretagne. En dépôt au Chareau-Musée de Noirmoutier (numéro d'inventaire 984.109)  ",
         "Objet": "Scène historique",
         "Titre/Inscription": "BATAILLE DE ST AUBIN DU CORMIER 1488",
@@ -1114,12 +943,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Gravure colorée",
         "Dimensions ": "33,5 x 51 cm",
-        "Auteur/Editeur": "Auteur: Sergent, graveur Jean-Baptiste Moret, éditeur Blain Art Paris France",
-        "": ""
+        "Auteur/Editeur": "Auteur: Sergent, graveur Jean-Baptiste Moret, éditeur Blain Art Paris France"
     },
     {
         "﻿N°inventaire": "8 Fi 90",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 90-  Gravure: Portrait de Charles de la Tremouille mort en 1515. En dépôt au Château-Musée de Noirmoutier (nunéro d'inventaire984.128)",
         "Objet": "Portrait",
         "Titre/Inscription": "Charles de la Tremoille, tué à la bataille de Marignan ",
@@ -1127,12 +954,10 @@ var ArcDatabase = [
         "Lieu": "France ",
         "Technique/support": "Lithographie",
         "Dimensions ": "31,5 x 23,7 cm",
-        "Auteur/Editeur": "Auteur: Jacquard                                                  P Bineteau                                            Lithographe: Emile Lassalle",
-        "": ""
+        "Auteur/Editeur": "Auteur: Jacquard                                                  P Bineteau                                            Lithographe: Emile Lassalle"
     },
     {
         "﻿N°inventaire": "8 Fi 91",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 91 - Gravure: Portrait de Louis III de La Trémoille, 1er Duc de Thouars (1521-1557), époux de Jeanne de Montmorency. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.351)",
         "Objet": "Portrait",
         "Titre/Inscription": "Galerie. historique. Versaille; c: Louis de La Trémouille DVC  De THOP DE France, La Trémoille (Louis sire de) duc de Thouars +1557. Tableau du Temps",
@@ -1140,12 +965,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Diagraphe",
         "Dimensions ": "22,1 x 27 cm",
-        "Auteur/Editeur": "Graveur: François Pigeot.                   Diagraphe: Charles Gavard",
-        "": ""
+        "Auteur/Editeur": "Graveur: François Pigeot.                   Diagraphe: Charles Gavard"
     },
     {
         "﻿N°inventaire": "8 Fi 92",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 91-  Gravure: Charlotte Catherine de la Trimoille (1568-1629) fille de Louis III de La Tremoille et de Jeanne de Montmorency, épouse en 1586 le Prince de Condé, Gouverneur de Picardie, duc d'Enghien. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.358)",
         "Objet": "Portrait",
         "Titre/Inscription": "CHARLOTTE DE LA TREMOILLE",
@@ -1153,12 +976,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier, eau forte ",
         "Dimensions ": "18 x 26 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 93",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 93- Gravure: Portrait de Claude de la Trémoille (1566-1604) 2e duc de Thouars, époux de Charlotte Brabantine van Orange-Nasseau. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-103)",
         "Objet": "Portrait",
         "Titre/Inscription": "Claude de la Trémouille  Duc de Thouars. Mort à Thouars le 25 8br 1604 agé de 38 ans, Pinx. Basan Sculp. A Paris chez Odieuvre M.d d'Estampes rue Danjon dauphine la deuxiéme porte cochère",
@@ -1166,12 +987,10 @@ var ArcDatabase = [
         "Lieu": "Fance",
         "Technique/support": "Eau forte",
         "Dimensions ": "15 x 21 cm",
-        "Auteur/Editeur": "Auteur: Basan  Editeur: Oedieuvre",
-        "": ""
+        "Auteur/Editeur": "Auteur: Basan  Editeur: Oedieuvre"
     },
     {
         "﻿N°inventaire": "8 FI 94",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 92- Gravures: Portrait d'Henri de la Trémoille 3e duc de Thouars et de La Trémoille (1598-1674) époux de Marie de La Tour d'Auvergne. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-100)",
         "Objet": "Portrait",
         "Titre/Inscription": "Le Duc de la Trémoille , maréchal de France",
@@ -1179,12 +998,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "17 x 25 cm",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 95",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 95- Gravures: Portrait d'Henri de la Trémoille 3e duc de Thouars et de La Trémoille (1598-1674) époux de Marie de La Tour d'Auvergne. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-102 a et 984.102 b) et don Lilianne Gibault",
         "Objet": "Portrait",
         "Titre/Inscription": "Henri de la Trémoille Ier du nom, Duc de Thouars, Pair de France, Prince de Tarente et de Talmond, comte de Laval, Villefranche.",
@@ -1192,12 +1009,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "17 x25 cm",
-        "Auteur/Editeur": "Auteur: Jean Daret",
-        "": ""
+        "Auteur/Editeur": "Auteur: Jean Daret"
     },
     {
         "﻿N°inventaire": "8 Fi 96 ",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 96- Gravure: Portrait d' Henry de la Trémoille et de Thouars. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-104)",
         "Objet": "Portrait",
         "Titre/Inscription": "HENY DVC DE LA TREMOILLE ET DE THOVRS PAIR DE France. Moncornet",
@@ -1205,12 +1020,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Eau forte",
         "Dimensions ": "18,2 x 25,5 cm",
-        "Auteur/Editeur": "Auteur: Balhtazar Moncornet",
-        "": ""
+        "Auteur/Editeur": "Auteur: Balhtazar Moncornet"
     },
     {
         "﻿N°inventaire": "8 Fi 97",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 97- Gravure: Portrait de Marie de La Tour d'Auvergne duchesse de La Tremoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-98) ",
         "Objet": "Portrait",
         "Titre/Inscription": "MAD. MARIE DE LA TOVR DVCHESSE DE La TREMOILLE ET DE THOVARS. Moncornet ex. 1657",
@@ -1218,12 +1031,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "25,5 x 33,5 cm",
-        "Auteur/Editeur": "Auteur: Balthazar Moncornet",
-        "": ""
+        "Auteur/Editeur": "Auteur: Balthazar Moncornet"
     },
     {
         "﻿N°inventaire": "8 Fi 98 ",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974 Don Lilianne Gibault",
         "Descriptif": "8 Fi 98- Gravure: Portrait de Henry Charles de la Trémoille (1598-1674), 4e duc de Thouars (1620-1672) prince de Tarente . En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-105). Don Lilianne Gibault Henri Charles Prince de Talmont et Henri Charles Prince de Tarente 8 Fi 98/1 et 8 Fi 98/2",
         "Objet": "Portrait",
         "Titre/Inscription": "Henry Charles de la Trémoille, prince de Talmont 1654 . Par son Humble serviteur Moncornet.",
@@ -1231,12 +1042,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Eau forte",
         "Dimensions ": "20 x 26,5 cm",
-        "Auteur/Editeur": "Auteur: Balhtazar Moncornet",
-        "": ""
+        "Auteur/Editeur": "Auteur: Balhtazar Moncornet"
     },
     {
         "﻿N°inventaire": "8 FI 99",
-        "Mode d'Acquisition": "Achat chez P. Prouté Paris 1974",
         "Descriptif": "8 Fi 99- Gravure: Portrait de Louis-Maurice de la Trémoille (1624-1681), fils de Henri de la Tremoille et de Marie de la Tour d'Auvergne, abbé de Charroux.  En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.101 a et 984.101 b) . 2e X Don Lilianne Gibault 8 Fi 99/2",
         "Objet": "Portrait ",
         "Titre/Inscription": "Louis-Maurice de la Trémoille comte de Laval",
@@ -1244,12 +1053,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "15 x 21 cm et 19,5 x 28,5",
-        "Auteur/Editeur": "",
-        "": ""
+        "Auteur/Editeur": ""
     },
     {
         "﻿N°inventaire": "8 Fi 100",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 100- Gravure: Charles de la Trimoille '1485-1515 Marignan) Prnce de Talmont. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.128)",
         "Objet": "Portrait",
         "Titre/Inscription": "Charles de la Tremoille tué à la bataille de Marignan (en 1515)",
@@ -1257,12 +1064,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Litographie",
         "Dimensions ": "31,5 x 23,7 cm",
-        "Auteur/Editeur": "Auteur: Jacquard                                                P. Bineteau",
-        "": ""
+        "Auteur/Editeur": "Auteur: Jacquard                                                P. Bineteau"
     },
     {
         "﻿N°inventaire": "8 Fi 101",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 101- Gravure: Marie Madeleine Mottier dite de Lafayette  + 1717 (petite fille de Madame de Lafayette) duchesse de  la Tremoille épouse de Charles  de la Tremoille.",
         "Objet": "Portrait",
         "Titre/Inscription": "Marie-Madeleine de La Fayette Duchesse de La Tremoille + 1717",
@@ -1270,12 +1075,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Lithographie",
         "Dimensions ": "21,2 x 30,2",
-        "Auteur/Editeur": "Graveur: Nargeot",
-        "": ""
+        "Auteur/Editeur": "Graveur: Nargeot"
     },
     {
         "﻿N°inventaire": "8 Fi 102",
-        "Mode d'Acquisition": "Don Lilianne Gibault",
         "Descriptif": "8 Fi 102- Gravure: Louis II de la Tremoille, marquis de Noirmoutier, lieutenant général pour sa Majesté dans la province d'Anjou. ",
         "Objet": "Portrait",
         "Titre/Inscription": "",
@@ -1283,12 +1086,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "18 x 26 cm",
-        "Auteur/Editeur": "Moncornet 1010035",
-        "": ""
+        "Auteur/Editeur": "Moncornet 1010035"
     },
     {
         "﻿N°inventaire": "8 Fi 103 ",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 103- Gravure: Le Duc de la Tremoille. En dépôt au château-Musée de Noirmoutier (numéro d'inventaire 984.130)",
         "Objet": "Portrait",
         "Titre/Inscription": "Humblot sculpteur (Graveur)",
@@ -1296,12 +1097,10 @@ var ArcDatabase = [
         "Lieu": "Versailles France",
         "Technique/support": "Papier. Eau forte ",
         "Dimensions ": "25,5 x 31,5 cm",
-        "Auteur/Editeur": "Graveur: Antoine Humblot",
-        "": ""
+        "Auteur/Editeur": "Graveur: Antoine Humblot"
     },
     {
         "﻿N°inventaire": "8 Fi 104 ",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 104- Gravure: Mort du Prince de Talmont  d'après une peinture à l'huile de Richard François Fleuri, perdu depuis 1830. En dépôt au Château-Musée de Noirmoutier (Numéro d'inventaire 984.131 ",
         "Objet": "Intérieur du couvent de Chartreux",
         "Titre/Inscription": "Mort du Prince de Talmont",
@@ -1309,12 +1108,10 @@ var ArcDatabase = [
         "Lieu": "France ",
         "Technique/support": "Papier. Lithographie",
         "Dimensions ": "42;2 x 29,5 cm",
-        "Auteur/Editeur": "Auteut Jules David d'après le tableau de Richard.                                                     Graveur Pierre Langlumé",
-        "": ""
+        "Auteur/Editeur": "Auteut Jules David d'après le tableau de Richard.                                                     Graveur Pierre Langlumé"
     },
     {
         "﻿N°inventaire": "8 Fi 105 ",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 105- Gravure : Anne Marie de la Trémoille, Princesse des Ursins. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.107 ) ",
         "Objet": "Portrait",
         "Titre/Inscription": "Ursin ( Marie Anne de la Trémoille) princesse des… Tableau du temps, gravé par Bernardi. + 1722",
@@ -1322,12 +1119,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Lithographie ",
         "Dimensions ": "22,5 x 31,5 cm",
-        "Auteur/Editeur": "Graveur: Bernardi",
-        "": ""
+        "Auteur/Editeur": "Graveur: Bernardi"
     },
     {
         "﻿N°inventaire": "8 Fi 106",
-        "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 106- Gravure : Gustave Staal: Anne Marie de la Trémoille, Princesse des Ursins. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.357)",
         "Objet": "Portrait",
         "Titre/Inscription": "La Princesse des Ursins, G. Staal del.",
@@ -1335,12 +1130,10 @@ var ArcDatabase = [
         "Lieu": "Paris",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "18,5 x 24,5 cm",
-        "Auteur/Editeur": "Auteur: Gustave Staal;                           Sculpteur: Charles Geoffroy.               Imprimeur Charles Chardon.                  Editeur Garnier Frères",
-        "": ""
+        "Auteur/Editeur": "Auteur: Gustave Staal;                           Sculpteur: Charles Geoffroy.               Imprimeur Charles Chardon.                  Editeur Garnier Frères"
     },
     {
         "﻿N°inventaire": "8 Fi 107",
-        "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 105- Gravure : Anne Marie de la Trémoille, Princesse des Ursins. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.350)",
         "Objet": "Portrait",
         "Titre/Inscription": "Anne Marie de la Tremoille, Princesse des Ursins",
@@ -1348,12 +1141,10 @@ var ArcDatabase = [
         "Lieu": "Paris",
         "Technique/support": "Papier. Lithographie couleur",
         "Dimensions ": "48,2 x 31,6 cm",
-        "Auteur/Editeur": "Lithographe: Delpech",
-        "": ""
+        "Auteur/Editeur": "Lithographe: Delpech"
     },
     {
         "﻿N°inventaire": "8 Fi 108",
-        "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 106- A. Lemonnier: Charlotte de Beaune épouse de François de la Tremoille (1568-1629). En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.358)",
         "Objet": "Portrait",
         "Titre/Inscription": "Charlotte de la Tremoille",
@@ -1361,12 +1152,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "18 x 26 cm",
-        "Auteur/Editeur": "Auteur: Annicet Charles Gabriel Lemonnier. Sculpteur: Simon-Charles Miger",
-        "": ""
+        "Auteur/Editeur": "Auteur: Annicet Charles Gabriel Lemonnier. Sculpteur: Simon-Charles Miger"
     },
     {
         "﻿N°inventaire": "8 Fi 109",
-        "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 109- Gravure: Philippe de la Tremoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-)",
         "Objet": "",
         "Titre/Inscription": "",
@@ -1374,12 +1163,10 @@ var ArcDatabase = [
         "Lieu": "",
         "Technique/support": "",
         "Dimensions ": "26 x 31 cm",
-        "Auteur/Editeur": "Sculpteur: Humbelot ",
-        "": ""
+        "Auteur/Editeur": "Sculpteur: Humbelot "
     },
     {
         "﻿N°inventaire": "8 Fi 110",
-        "Mode d'Acquisition": "Achat chez G. Mas Paris 1974",
         "Descriptif": "8 Fi 110- Gravure: Louis de la Tremoille Marquis de Noirmoutier. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984-)",
         "Objet": "Portrait",
         "Titre/Inscription": "Louis de la Tremoille Marquis de Noirmoutier coner, du Roy en ses conseils, Lieutenant général pour sa Magesté",
@@ -1387,12 +1174,10 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte ",
         "Dimensions ": "21 x 15 cm",
-        "Auteur/Editeur": "Auteur Balthazar Moncornet ",
-        "": ""
+        "Auteur/Editeur": "Auteur Balthazar Moncornet "
     },
     {
         "﻿N°inventaire": "8 Fi 111 ",
-        "Mode d'Acquisition": "Achat.M.P Prouté Paris 1974",
         "Descriptif": "8 Fi 111- Gravure: Joseph Emmanuel de la Tremoille. En dépôt au Château-Musée de Noirmoutier (numéro d'inventaire 984.363)",
         "Objet": "Portrait",
         "Titre/Inscription": "Gravure: Joseph Emmanuel de La Tremoille Cardinalen 1706 et Archevêque de Cambray en 1718. Abbé de Lagny, de Sorese",
@@ -1400,7 +1185,6 @@ var ArcDatabase = [
         "Lieu": "France",
         "Technique/support": "Papier. Eau forte",
         "Dimensions ": "10,5 x 15 cm",
-        "Auteur/Editeur": "Auteur: Cévend                                            Editeur: E. Desrochers",
-        "": ""
+        "Auteur/Editeur": "Auteur: Cévend                                            Editeur: E. Desrochers"
     }
 ];

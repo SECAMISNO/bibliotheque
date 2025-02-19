@@ -8,11 +8,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0011",
@@ -23,11 +19,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "1 petite boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "11"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0012",
@@ -38,11 +30,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "1 petite boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "12"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0300-0217",
@@ -53,11 +41,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-15",
-        "réf Arexcpo": "",
-        "chrono": "217"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0300-0300",
@@ -68,11 +52,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-23",
-        "réf Arexcpo": "",
-        "chrono": "300"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0300-0315",
@@ -83,11 +63,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-38",
-        "réf Arexcpo": "",
-        "chrono": "315"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0800-0015",
@@ -98,11 +74,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "15"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-0013",
@@ -113,11 +85,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "13"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0000-0050",
@@ -128,11 +96,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "",
-        "dimension": "",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "50"
+        "dimension": ""
     },
     {
         "﻿code archive": "0000-0051",
@@ -143,11 +107,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "",
-        "dimension": "",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "51"
+        "dimension": ""
     },
     {
         "﻿code archive": "0000-0052",
@@ -158,11 +118,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "",
-        "dimension": "",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "52"
+        "dimension": ""
     },
     {
         "﻿code archive": "0100-0053",
@@ -173,11 +129,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "53"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "1600-0054",
@@ -188,11 +140,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "54"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0055",
@@ -203,11 +151,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "55"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0056",
@@ -218,11 +162,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "56"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0057",
@@ -233,11 +173,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "57"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0058",
@@ -248,11 +184,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "58"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0059",
@@ -263,11 +195,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "59"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0060",
@@ -278,11 +206,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "60"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "1300-0061",
@@ -293,11 +217,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "61"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0200-0062",
@@ -308,11 +228,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "62"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0200-0063",
@@ -323,11 +239,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "63"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0500-0064",
@@ -338,11 +250,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "64"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "1300-0065",
@@ -353,11 +261,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "65"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0200-0066",
@@ -368,11 +272,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "66"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "2200-0067",
@@ -383,11 +283,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "6,5x8,9",
-        "rangement": "enveloppe",
-        "réf AAIN": "72 E",
-        "réf Arexcpo": "",
-        "chrono": "67"
+        "dimension": "6,5x8,9"
     },
     {
         "﻿code archive": "0000-0200",
@@ -398,11 +294,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "",
-        "dimension": "",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-00 a",
-        "réf Arexcpo": "",
-        "chrono": "200"
+        "dimension": ""
     },
     {
         "﻿code archive": "0000-0201",
@@ -413,11 +305,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "",
-        "dimension": "",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-00 b",
-        "réf Arexcpo": "",
-        "chrono": "201"
+        "dimension": ""
     },
     {
         "﻿code archive": "0100-0202",
@@ -428,11 +316,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-01",
-        "réf Arexcpo": "8001",
-        "chrono": "202"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9988-0203",
@@ -443,11 +327,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-02 a",
-        "réf Arexcpo": "8004",
-        "chrono": "203"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9988-0204",
@@ -458,11 +338,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-02 b",
-        "réf Arexcpo": "",
-        "chrono": "204"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9988-0205",
@@ -473,11 +349,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-03",
-        "réf Arexcpo": "7996",
-        "chrono": "205"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9988-0206",
@@ -488,11 +360,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-04",
-        "réf Arexcpo": "8002",
-        "chrono": "206"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9988-0207",
@@ -503,11 +371,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-05",
-        "réf Arexcpo": "7995",
-        "chrono": "207"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0208",
@@ -518,11 +382,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-06",
-        "réf Arexcpo": "",
-        "chrono": "208"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0209",
@@ -533,11 +393,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-07",
-        "réf Arexcpo": "7990",
-        "chrono": "209"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0210",
@@ -548,11 +404,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-08",
-        "réf Arexcpo": "8000",
-        "chrono": "210"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0211",
@@ -563,11 +415,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-09",
-        "réf Arexcpo": "",
-        "chrono": "211"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0212",
@@ -578,11 +426,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-10",
-        "réf Arexcpo": "",
-        "chrono": "212"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0213",
@@ -593,11 +437,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-11",
-        "réf Arexcpo": "",
-        "chrono": "213"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0214",
@@ -608,11 +448,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-12",
-        "réf Arexcpo": "",
-        "chrono": "214"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0215",
@@ -623,11 +459,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-13",
-        "réf Arexcpo": "",
-        "chrono": "215"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0216",
@@ -638,11 +470,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-14",
-        "réf Arexcpo": "7999",
-        "chrono": "216"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2200-0219",
@@ -653,11 +481,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-17",
-        "réf Arexcpo": "",
-        "chrono": "219"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "1100-0220",
@@ -668,11 +492,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-18",
-        "réf Arexcpo": "",
-        "chrono": "220"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0221",
@@ -683,11 +503,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "1-19",
-        "réf Arexcpo": "",
-        "chrono": "221"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1100-0222",
@@ -698,11 +514,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-20",
-        "réf Arexcpo": "",
-        "chrono": "222"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0223",
@@ -713,11 +525,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-21",
-        "réf Arexcpo": "7991",
-        "chrono": "223"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1400-0224",
@@ -728,11 +536,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-22",
-        "réf Arexcpo": "787",
-        "chrono": "224"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-0225",
@@ -743,11 +547,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-23",
-        "réf Arexcpo": "7936",
-        "chrono": "225"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-0226",
@@ -758,11 +558,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-24 a",
-        "réf Arexcpo": "7942",
-        "chrono": "226"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-0227",
@@ -773,11 +569,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-24 b",
-        "réf Arexcpo": "7940",
-        "chrono": "227"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-0228",
@@ -788,11 +580,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-25",
-        "réf Arexcpo": "759",
-        "chrono": "228"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9977-0229",
@@ -803,11 +591,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-26",
-        "réf Arexcpo": "",
-        "chrono": "229"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "1500-0230",
@@ -818,11 +602,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "1-27",
-        "réf Arexcpo": "7989",
-        "chrono": "230"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0000-0231",
@@ -833,11 +613,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "",
-        "dimension": "",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-00 a",
-        "réf Arexcpo": "",
-        "chrono": "231"
+        "dimension": ""
     },
     {
         "﻿code archive": "0000-0232",
@@ -848,11 +624,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "",
-        "dimension": "",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-00 b",
-        "réf Arexcpo": "",
-        "chrono": "232"
+        "dimension": ""
     },
     {
         "﻿code archive": "3000-0234",
@@ -863,11 +635,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-02",
-        "réf Arexcpo": "",
-        "chrono": "234"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2300-0235",
@@ -878,11 +646,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-03",
-        "réf Arexcpo": "7997",
-        "chrono": "235"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-0236",
@@ -893,11 +657,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-04",
-        "réf Arexcpo": "",
-        "chrono": "236"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0500-0237",
@@ -908,11 +668,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-05",
-        "réf Arexcpo": "",
-        "chrono": "237"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0400-0238",
@@ -923,11 +679,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-06",
-        "réf Arexcpo": "7992",
-        "chrono": "238"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0239",
@@ -938,11 +690,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-07",
-        "réf Arexcpo": "",
-        "chrono": "239"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-0240",
@@ -953,11 +701,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-08",
-        "réf Arexcpo": "",
-        "chrono": "240"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "1600-0242",
@@ -968,11 +712,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-10",
-        "réf Arexcpo": "7993",
-        "chrono": "242"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0243",
@@ -983,11 +723,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-11",
-        "réf Arexcpo": "786",
-        "chrono": "243"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1500-0244",
@@ -998,11 +734,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-12",
-        "réf Arexcpo": "7998",
-        "chrono": "244"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1500-0245",
@@ -1013,11 +745,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-13",
-        "réf Arexcpo": "7960",
-        "chrono": "245"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2200-0246",
@@ -1028,11 +756,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-14",
-        "réf Arexcpo": "7994",
-        "chrono": "246"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0248",
@@ -1043,11 +767,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-16",
-        "réf Arexcpo": "7981",
-        "chrono": "248"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0249",
@@ -1058,11 +778,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-17",
-        "réf Arexcpo": "5375",
-        "chrono": "249"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0250",
@@ -1073,11 +789,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-18",
-        "réf Arexcpo": "7982",
-        "chrono": "250"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0251",
@@ -1088,11 +800,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-19",
-        "réf Arexcpo": "",
-        "chrono": "251"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "1500-0252",
@@ -1103,11 +811,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-20",
-        "réf Arexcpo": "7958",
-        "chrono": "252"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1100-0253",
@@ -1118,11 +822,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-21",
-        "réf Arexcpo": "",
-        "chrono": "253"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0254",
@@ -1133,11 +833,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "2-22",
-        "réf Arexcpo": "8005",
-        "chrono": "254"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-0256",
@@ -1148,11 +844,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-24",
-        "réf Arexcpo": "7937",
-        "chrono": "256"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0257",
@@ -1163,11 +855,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "2-25",
-        "réf Arexcpo": "7987",
-        "chrono": "257"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-0258",
@@ -1178,11 +866,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-26",
-        "réf Arexcpo": "",
-        "chrono": "258"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0300-0259",
@@ -1193,11 +877,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "2-27",
-        "réf Arexcpo": "",
-        "chrono": "259"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1800-0260",
@@ -1208,11 +888,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-28",
-        "réf Arexcpo": "7977",
-        "chrono": "260"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0261",
@@ -1223,11 +899,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "2-29",
-        "réf Arexcpo": "",
-        "chrono": "261"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0263",
@@ -1238,11 +910,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-31",
-        "réf Arexcpo": "7985",
-        "chrono": "263"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0264",
@@ -1253,11 +921,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-32",
-        "réf Arexcpo": "7965",
-        "chrono": "264"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1500-0265",
@@ -1268,11 +932,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-33",
-        "réf Arexcpo": "790",
-        "chrono": "265"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0266",
@@ -1283,11 +943,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-34",
-        "réf Arexcpo": "7988",
-        "chrono": "266"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0268",
@@ -1298,11 +954,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-36",
-        "réf Arexcpo": "7974",
-        "chrono": "268"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0269",
@@ -1313,11 +965,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-37",
-        "réf Arexcpo": "7975",
-        "chrono": "269"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0270",
@@ -1328,11 +976,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-38",
-        "réf Arexcpo": "",
-        "chrono": "270"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0300-0271",
@@ -1343,11 +987,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-39",
-        "réf Arexcpo": "7983",
-        "chrono": "271"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0272",
@@ -1358,11 +998,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-40",
-        "réf Arexcpo": "7984",
-        "chrono": "272"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0273",
@@ -1373,11 +1009,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-41",
-        "réf Arexcpo": "7961",
-        "chrono": "273"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0274",
@@ -1388,11 +1020,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-42",
-        "réf Arexcpo": "7962",
-        "chrono": "274"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0800-0275",
@@ -1403,11 +1031,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-43",
-        "réf Arexcpo": "7980",
-        "chrono": "275"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0000-0276",
@@ -1418,11 +1042,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "",
-        "dimension": "",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-00 a",
-        "réf Arexcpo": "",
-        "chrono": "276"
+        "dimension": ""
     },
     {
         "﻿code archive": "0000-0277",
@@ -1433,11 +1053,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "",
-        "dimension": "",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-00 b",
-        "réf Arexcpo": "",
-        "chrono": "277"
+        "dimension": ""
     },
     {
         "﻿code archive": "0300-0278",
@@ -1448,11 +1064,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-01",
-        "réf Arexcpo": "7967",
-        "chrono": "278"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0280",
@@ -1463,11 +1075,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-03",
-        "réf Arexcpo": "7969",
-        "chrono": "280"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0281",
@@ -1478,11 +1086,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-04",
-        "réf Arexcpo": "",
-        "chrono": "281"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0282",
@@ -1493,11 +1097,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-05",
-        "réf Arexcpo": "",
-        "chrono": "282"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0283",
@@ -1508,11 +1108,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-06",
-        "réf Arexcpo": "5379",
-        "chrono": "283"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0284",
@@ -1523,11 +1119,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-07",
-        "réf Arexcpo": "",
-        "chrono": "284"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-0285",
@@ -1538,11 +1130,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-08",
-        "réf Arexcpo": "7941",
-        "chrono": "285"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0286",
@@ -1553,11 +1141,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-09",
-        "réf Arexcpo": "7986",
-        "chrono": "286"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0287",
@@ -1568,11 +1152,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-10",
-        "réf Arexcpo": "7966",
-        "chrono": "287"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0288",
@@ -1583,11 +1163,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-11",
-        "réf Arexcpo": "",
-        "chrono": "288"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1600-0289",
@@ -1598,11 +1174,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "3-12",
-        "réf Arexcpo": "8390",
-        "chrono": "289"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0290",
@@ -1613,11 +1185,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-13",
-        "réf Arexcpo": "",
-        "chrono": "290"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1100-0292",
@@ -1628,11 +1196,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-15",
-        "réf Arexcpo": "",
-        "chrono": "292"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0300-0293",
@@ -1643,11 +1207,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-16",
-        "réf Arexcpo": "",
-        "chrono": "293"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0294",
@@ -1658,11 +1218,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-17",
-        "réf Arexcpo": "",
-        "chrono": "294"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0295",
@@ -1673,11 +1229,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-18",
-        "réf Arexcpo": "",
-        "chrono": "295"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0296",
@@ -1688,11 +1240,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-19",
-        "réf Arexcpo": "7968",
-        "chrono": "296"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0297",
@@ -1703,11 +1251,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-20",
-        "réf Arexcpo": "",
-        "chrono": "297"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0400-0298",
@@ -1718,11 +1262,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-21",
-        "réf Arexcpo": "",
-        "chrono": "298"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0800-0299",
@@ -1733,11 +1273,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "3-22",
-        "réf Arexcpo": "8003",
-        "chrono": "299"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0301",
@@ -1748,11 +1284,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-24",
-        "réf Arexcpo": "",
-        "chrono": "301"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "0300-0302",
@@ -1763,11 +1295,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-25",
-        "réf Arexcpo": "5345",
-        "chrono": "302"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0400-0304",
@@ -1778,11 +1306,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-27",
-        "réf Arexcpo": "",
-        "chrono": "304"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2200-0305",
@@ -1793,11 +1317,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "3-28",
-        "réf Arexcpo": "788",
-        "chrono": "305"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0306",
@@ -1808,11 +1328,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-29",
-        "réf Arexcpo": "5382",
-        "chrono": "306"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0307",
@@ -1823,11 +1339,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-30",
-        "réf Arexcpo": "",
-        "chrono": "307"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0308",
@@ -1838,11 +1350,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-31",
-        "réf Arexcpo": "",
-        "chrono": "308"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0309",
@@ -1853,11 +1361,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-32",
-        "réf Arexcpo": "",
-        "chrono": "309"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0310",
@@ -1868,11 +1372,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-33",
-        "réf Arexcpo": "",
-        "chrono": "310"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0400-0311",
@@ -1883,11 +1383,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-34",
-        "réf Arexcpo": "7971",
-        "chrono": "311"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1100-0312",
@@ -1898,11 +1394,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-35",
-        "réf Arexcpo": "",
-        "chrono": "312"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0313",
@@ -1913,11 +1405,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-36",
-        "réf Arexcpo": "7972",
-        "chrono": "313"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0314",
@@ -1928,11 +1416,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-37",
-        "réf Arexcpo": "",
-        "chrono": "314"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0316",
@@ -1943,11 +1427,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-39",
-        "réf Arexcpo": "",
-        "chrono": "316"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0317",
@@ -1958,11 +1438,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "3-40",
-        "réf Arexcpo": "",
-        "chrono": "317"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0318",
@@ -1973,11 +1449,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-41",
-        "réf Arexcpo": "",
-        "chrono": "318"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0319",
@@ -1988,11 +1460,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-42",
-        "réf Arexcpo": "6509",
-        "chrono": "319"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0320",
@@ -2003,11 +1471,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1",
-        "réf AAIN": "3-43",
-        "réf Arexcpo": "",
-        "chrono": "320"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1100-0321",
@@ -2018,11 +1482,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-45",
-        "réf Arexcpo": "",
-        "chrono": "321"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9977-0322",
@@ -2033,11 +1493,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-46",
-        "réf Arexcpo": "",
-        "chrono": "322"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0500",
@@ -2048,11 +1504,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "500"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2100-0501",
@@ -2063,11 +1515,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "501"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2100-0502",
@@ -2078,11 +1526,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "502"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2100-0503",
@@ -2093,11 +1537,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "503"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2100-0504",
@@ -2108,11 +1548,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "504"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1500-0506",
@@ -2123,11 +1559,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1 divers",
-        "réf AAIN": "",
-        "réf Arexcpo": "6511",
-        "chrono": "506"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9999-0507",
@@ -2138,11 +1570,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1 divers",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "507"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2100-0508",
@@ -2153,11 +1581,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "508"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-0509",
@@ -2168,11 +1592,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "509"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-0510",
@@ -2183,11 +1603,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "510"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-0511",
@@ -2198,11 +1614,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "511"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-0512",
@@ -2213,11 +1625,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "512"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-0513",
@@ -2228,11 +1636,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "513"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "9999-0514",
@@ -2243,11 +1647,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "514"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "9999-0515",
@@ -2258,11 +1658,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "515"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "9999-0516",
@@ -2273,11 +1669,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "516"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0517",
@@ -2288,11 +1680,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "517"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "2800-0518",
@@ -2303,11 +1691,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "518"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0600-0520",
@@ -2318,11 +1702,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "520"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1600-0521",
@@ -2333,11 +1713,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "521"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2300-0522",
@@ -2348,11 +1724,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "522"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2300-0523",
@@ -2363,11 +1735,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "523"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2300-0524",
@@ -2378,11 +1746,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "524"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0300-0525",
@@ -2393,11 +1757,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "525"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1300-0526",
@@ -2408,11 +1768,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "boîte Breteau ?",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "526"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1300-0528",
@@ -2423,11 +1779,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "boîte Breteau ?",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "528"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-0529",
@@ -2438,11 +1790,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "529"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1300-0530",
@@ -2453,11 +1801,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "530"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1300-0531",
@@ -2468,11 +1812,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "531"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0400-0532",
@@ -2483,11 +1823,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "532"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0400-0533",
@@ -2498,11 +1834,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "533"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1300-0534",
@@ -2513,11 +1845,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "534"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0300-0535",
@@ -2528,11 +1856,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "535"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0300-0536",
@@ -2543,11 +1867,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "536"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0300-0537",
@@ -2558,11 +1878,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "537"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0300-0538",
@@ -2573,11 +1889,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "538"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1900-0539",
@@ -2588,11 +1900,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau ???",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "539"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1900-0540",
@@ -2603,11 +1911,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau ???",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "540"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1900-0541",
@@ -2618,11 +1922,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau ???",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "541"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9995-0542",
@@ -2633,11 +1933,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "542"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1700-0543",
@@ -2648,11 +1944,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "543"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1700-0544",
@@ -2663,11 +1955,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "544"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0700-0545",
@@ -2678,11 +1966,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "545"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0700-0546",
@@ -2693,11 +1977,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "546"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0547",
@@ -2708,11 +1988,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "547"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1900-0548",
@@ -2723,11 +1999,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "548"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0549",
@@ -2738,11 +2010,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "549"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0550",
@@ -2753,11 +2021,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7950",
-        "chrono": "550"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0551",
@@ -2768,11 +2032,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7949",
-        "chrono": "551"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0552",
@@ -2783,11 +2043,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7954",
-        "chrono": "552"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0553",
@@ -2798,11 +2054,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7949",
-        "chrono": "553"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0555",
@@ -2813,11 +2065,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "555"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0556",
@@ -2828,11 +2076,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "556"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0557",
@@ -2843,11 +2087,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "557"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9999-0558",
@@ -2858,11 +2098,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "558"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0559",
@@ -2873,11 +2109,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "559"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9999-0560",
@@ -2888,11 +2120,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "560"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0561",
@@ -2903,11 +2131,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "boîte Breteau ?",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "561"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0562",
@@ -2918,11 +2142,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "562"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0000-0563",
@@ -2933,11 +2153,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "563"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9999-0564",
@@ -2948,11 +2164,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "564"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0565",
@@ -2963,11 +2175,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "565"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "9977-0566",
@@ -2978,11 +2186,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "566"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0200-0567",
@@ -2993,11 +2197,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "567"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-0568",
@@ -3008,11 +2208,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "568"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0500-0569",
@@ -3023,11 +2219,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "569"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0800-0570",
@@ -3038,11 +2230,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "570"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0300-1001",
@@ -3053,11 +2241,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1001"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-1002",
@@ -3068,11 +2252,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1002"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0400-1003",
@@ -3083,11 +2263,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1003"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1004",
@@ -3098,11 +2274,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1004"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0700-1004",
@@ -3113,11 +2285,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1004"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1005",
@@ -3128,11 +2296,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1005"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1006",
@@ -3143,11 +2307,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1006"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1007",
@@ -3158,11 +2318,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1007"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1008",
@@ -3173,11 +2329,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1008"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1009",
@@ -3188,11 +2340,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1009"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1010",
@@ -3203,11 +2351,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1010"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1011",
@@ -3218,11 +2362,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1011"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1012",
@@ -3233,11 +2373,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1012"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2800-1013",
@@ -3248,11 +2384,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1013"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2800-1014",
@@ -3263,11 +2395,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1014"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2800-1015",
@@ -3278,11 +2406,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1015"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2800-1016",
@@ -3293,11 +2417,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1016"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2800-1017",
@@ -3308,11 +2428,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1017"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2800-1501",
@@ -3323,11 +2439,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1501"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1503",
@@ -3338,11 +2450,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1503"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1504",
@@ -3353,11 +2461,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1504"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1505",
@@ -3368,11 +2472,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1505"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1506",
@@ -3383,11 +2483,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1506"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1507",
@@ -3398,11 +2494,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1507"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1508",
@@ -3413,11 +2505,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1508"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1509",
@@ -3428,11 +2516,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1509"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1510",
@@ -3443,11 +2527,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1510"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1511",
@@ -3458,11 +2538,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1511"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1512",
@@ -3473,11 +2549,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1512"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1513",
@@ -3488,11 +2560,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1513"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1514",
@@ -3503,11 +2571,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1514"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1521",
@@ -3518,11 +2582,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1521"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1522",
@@ -3533,11 +2593,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1522"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1523",
@@ -3548,11 +2604,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1523"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1524",
@@ -3563,11 +2615,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1524"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1525",
@@ -3578,11 +2626,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1525"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1526",
@@ -3593,11 +2637,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1526"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1527",
@@ -3608,11 +2648,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1527"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1528",
@@ -3623,11 +2659,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1528"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1529",
@@ -3638,11 +2670,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "boîte Breteau ?",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1529"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1530",
@@ -3653,11 +2681,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1530"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1531",
@@ -3668,11 +2692,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1531"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1532",
@@ -3683,11 +2703,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1532"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1533",
@@ -3698,11 +2714,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "pochette noire",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1533"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1534",
@@ -3713,11 +2725,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1534"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1537",
@@ -3728,11 +2736,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7956",
-        "chrono": "1537"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1538",
@@ -3743,11 +2747,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7957",
-        "chrono": "1538"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1539",
@@ -3758,11 +2758,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7955",
-        "chrono": "1539"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1540",
@@ -3773,11 +2769,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7953",
-        "chrono": "1540"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1541",
@@ -3788,11 +2780,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7952",
-        "chrono": "1541"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1542",
@@ -3803,11 +2791,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7951",
-        "chrono": "1542"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1543",
@@ -3818,11 +2802,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7945",
-        "chrono": "1543"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1544",
@@ -3833,11 +2813,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7944",
-        "chrono": "1544"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1546",
@@ -3848,11 +2824,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1546"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1547",
@@ -3863,11 +2835,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1547"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1552",
@@ -3878,11 +2846,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1552"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0300-1553",
@@ -3893,11 +2857,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1553"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1554",
@@ -3908,11 +2868,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1554"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1555",
@@ -3923,11 +2879,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1555"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1556",
@@ -3938,11 +2890,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1556"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1557",
@@ -3953,11 +2901,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1557"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1563",
@@ -3968,11 +2912,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1563"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-1564",
@@ -3983,11 +2923,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1564"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2300-1709",
@@ -3998,11 +2934,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1709"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2820-1719",
@@ -4013,11 +2945,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1719"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "2810-2000",
@@ -4028,11 +2956,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2000"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-2004",
@@ -4043,11 +2967,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2004"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0091",
@@ -4058,11 +2978,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "91"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0092",
@@ -4073,11 +2989,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "92"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-1200",
@@ -4088,11 +3000,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1200"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-2707",
@@ -4103,11 +3011,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2707"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "9993-1201",
@@ -4118,11 +3022,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1201"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2400-0093",
@@ -4133,11 +3033,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "93"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-0218",
@@ -4148,11 +3044,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "1-16",
-        "réf Arexcpo": "7964",
-        "chrono": "218"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0233",
@@ -4163,11 +3055,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-01",
-        "réf Arexcpo": "7979",
-        "chrono": "233"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0241",
@@ -4178,11 +3066,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-09",
-        "réf Arexcpo": "7959",
-        "chrono": "241"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0247",
@@ -4193,11 +3077,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-15",
-        "réf Arexcpo": "7976",
-        "chrono": "247"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0255",
@@ -4208,11 +3088,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-23",
-        "réf Arexcpo": "7939",
-        "chrono": "255"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-0262",
@@ -4223,11 +3099,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-30",
-        "réf Arexcpo": "7938",
-        "chrono": "262"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-0279",
@@ -4238,11 +3110,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-02",
-        "réf Arexcpo": "",
-        "chrono": "279"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0291",
@@ -4253,11 +3121,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 3",
-        "réf AAIN": "3-14",
-        "réf Arexcpo": "7970",
-        "chrono": "291"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-0303",
@@ -4268,11 +3132,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "3-26",
-        "réf Arexcpo": "",
-        "chrono": "303"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1300-1202",
@@ -4283,11 +3143,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1202"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-1204",
@@ -4298,11 +3154,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1204"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-1205",
@@ -4313,11 +3165,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1205"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0700-1206",
@@ -4328,11 +3176,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1206"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0500-1208",
@@ -4343,11 +3187,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1208"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-1209",
@@ -4358,11 +3198,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1209"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1300-1210",
@@ -4373,11 +3209,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1210"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-1211",
@@ -4388,11 +3220,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1211"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1500-1207",
@@ -4403,11 +3231,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1207"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-1213",
@@ -4418,11 +3242,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1213"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-1214",
@@ -4433,11 +3253,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1214"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0300-1215",
@@ -4448,11 +3264,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "1215"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "9999-1216",
@@ -4463,11 +3275,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "1216"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0300-1217",
@@ -4478,11 +3286,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "1217"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "2300-0090",
@@ -4493,11 +3297,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Breteau",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "90"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "1800-0010",
@@ -4508,11 +3308,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Rhoné",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "1 petite boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "10"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0573",
@@ -4523,11 +3319,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "boîte Kodak",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "573"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "0100-0574",
@@ -4538,11 +3330,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "574"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-1000",
@@ -4553,11 +3341,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "10,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1000"
+        "dimension": "10,8x14,8"
     },
     {
         "﻿code archive": "2800-1550",
@@ -4568,11 +3352,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "6,6x9",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1550"
+        "dimension": "6,6x9"
     },
     {
         "﻿code archive": "2800-1560",
@@ -4583,11 +3363,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "6,4x8,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1560"
+        "dimension": "6,4x8,8"
     },
     {
         "﻿code archive": "2800-1561",
@@ -4598,11 +3374,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "6,4x8,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1561"
+        "dimension": "6,4x8,8"
     },
     {
         "﻿code archive": "2800-1562",
@@ -4613,11 +3385,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1562"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "9996-2527",
@@ -4628,11 +3396,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2527"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-2301",
@@ -4643,11 +3407,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2301"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0200-2302",
@@ -4658,11 +3418,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2302"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2303",
@@ -4673,11 +3429,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2303"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "9999-2304",
@@ -4688,11 +3440,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2304"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2305",
@@ -4703,11 +3451,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2305"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0320-2306",
@@ -4718,11 +3462,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2306"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2307",
@@ -4733,11 +3473,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2307"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2308",
@@ -4748,11 +3484,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2308"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2309",
@@ -4763,11 +3495,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2309"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2310",
@@ -4778,11 +3506,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2310"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2311",
@@ -4793,11 +3517,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2311"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2312",
@@ -4808,11 +3528,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2312"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2313",
@@ -4823,11 +3539,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2313"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2314",
@@ -4838,11 +3550,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2314"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2315",
@@ -4853,11 +3561,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2315"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2316",
@@ -4868,11 +3572,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2316"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0300-2317",
@@ -4883,11 +3583,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2317"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0200-2318",
@@ -4898,11 +3594,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2318"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2319",
@@ -4913,11 +3605,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2319"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0400-2320",
@@ -4928,11 +3616,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2320"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2321",
@@ -4943,11 +3627,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2321"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0100-2322",
@@ -4958,11 +3638,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2322"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0000-2300",
@@ -4973,11 +3649,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2300"
+        "dimension": ""
     },
     {
         "﻿code archive": "9990-2323",
@@ -4988,11 +3660,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2323"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "9990-2324",
@@ -5003,11 +3671,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thuillier-Bouvet",
         "support": "verre",
-        "dimension": "4,3x10,7",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2324"
+        "dimension": "4,3x10,7"
     },
     {
         "﻿code archive": "0500-2500",
@@ -5018,11 +3682,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2500"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0000-2501",
@@ -5033,11 +3693,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2501"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0300-2502",
@@ -5048,11 +3704,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2502"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "2100-2503",
@@ -5063,11 +3715,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2503"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "1100-2504",
@@ -5078,11 +3726,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2504"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0500-2505",
@@ -5093,11 +3737,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2505"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "1300-2506",
@@ -5108,11 +3748,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2506"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0200-2507",
@@ -5123,11 +3759,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2507"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "0500-2508",
@@ -5138,11 +3770,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Thérèse Gierzod-Jouzel",
         "support": "verre",
-        "dimension": "8,9x11,9",
-        "rangement": "boîte en carton GJ",
-        "réf AAIN": "141E16",
-        "réf Arexcpo": "",
-        "chrono": "2508"
+        "dimension": "8,9x11,9"
     },
     {
         "﻿code archive": "2300-2509",
@@ -5153,11 +3781,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2509"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2300-2510",
@@ -5168,11 +3792,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2510"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-267",
@@ -5183,11 +3803,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "Troussier",
         "support": "verre",
-        "dimension": "12,6x17,7",
-        "rangement": "boîte verte 2",
-        "réf AAIN": "2-35",
-        "réf Arexcpo": "",
-        "chrono": "267"
+        "dimension": "12,6x17,7"
     },
     {
         "﻿code archive": "2800-2511",
@@ -5198,11 +3814,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2511"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-2512",
@@ -5213,11 +3825,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2512"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-2513",
@@ -5228,11 +3836,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2513"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1900-2515",
@@ -5243,11 +3847,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2515"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0400-2516",
@@ -5258,11 +3858,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2516"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0700-2517",
@@ -5273,11 +3869,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2517"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-2518",
@@ -5288,11 +3880,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2518"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-2519",
@@ -5303,11 +3891,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2519"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-2520",
@@ -5318,11 +3902,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2520"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "10300-2521",
@@ -5333,11 +3913,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2521"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2400-2522",
@@ -5348,11 +3924,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2522"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "1900-2523",
@@ -5363,11 +3935,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2523"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-2524",
@@ -5378,11 +3946,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2524"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-2525",
@@ -5393,11 +3957,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2525"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-2526",
@@ -5408,11 +3968,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "plaques Eprevier",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2526"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-0505",
@@ -5423,11 +3979,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1 divers",
-        "réf AAIN": "",
-        "réf Arexcpo": "6507",
-        "chrono": "505"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9977-0519",
@@ -5438,11 +3990,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "5,8x12,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7943",
-        "chrono": "519"
+        "dimension": "5,8x12,8"
     },
     {
         "﻿code archive": "0600-0527",
@@ -5453,11 +4001,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "527"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2800-0571",
@@ -5468,11 +4012,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,9x12,9",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7947",
-        "chrono": "571"
+        "dimension": "8,9x12,9"
     },
     {
         "﻿code archive": "0200-0572",
@@ -5483,11 +4023,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,3x14,3",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "572"
+        "dimension": "9,3x14,3"
     },
     {
         "﻿code archive": "0400-1212",
@@ -5498,11 +4034,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1212"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "9977-1518",
@@ -5513,11 +4045,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1518"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "9977-1519",
@@ -5528,11 +4056,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1519"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1520",
@@ -5543,11 +4067,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1520"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1535",
@@ -5558,11 +4078,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1535"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1536",
@@ -5573,11 +4089,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1536"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1545",
@@ -5588,11 +4100,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7935",
-        "chrono": "1545"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1548",
@@ -5603,11 +4111,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1548"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1549",
@@ -5618,11 +4122,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "2 petites boîtes bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1549"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1551",
@@ -5633,11 +4133,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "8,5x12,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "7948",
-        "chrono": "1551"
+        "dimension": "8,5x12,8"
     },
     {
         "﻿code archive": "2820-1710",
@@ -5648,11 +4144,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1710"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1711",
@@ -5663,11 +4155,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1711"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1712",
@@ -5678,11 +4166,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1712"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1713",
@@ -5693,11 +4177,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1713"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1720",
@@ -5708,11 +4188,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1 divers",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1720"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2810-2001",
@@ -5723,11 +4199,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2001"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2810-2002",
@@ -5738,11 +4210,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2002"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-2514",
@@ -5753,11 +4221,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2514"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-2700",
@@ -5768,11 +4232,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2700"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-2701",
@@ -5783,11 +4243,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2701"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-2702",
@@ -5798,11 +4254,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2702"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2830-2703",
@@ -5813,11 +4265,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2703"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0100-2704",
@@ -5828,11 +4276,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2704"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "9977-2705",
@@ -5843,11 +4287,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2705"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "1700-2706",
@@ -5858,11 +4298,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2706"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "9977-2708",
@@ -5873,11 +4309,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "14,8x20,8",
-        "rangement": "boîte carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2708"
+        "dimension": "14,8x20,8"
     },
     {
         "﻿code archive": "0400-2709",
@@ -5888,11 +4320,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2709"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2810-2710",
@@ -5903,11 +4331,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2710"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0100-2711",
@@ -5918,11 +4342,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2711"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0500-2717",
@@ -5933,11 +4353,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "5x5",
-        "rangement": "fond 9 FI",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2717"
+        "dimension": "5x5"
     },
     {
         "﻿code archive": "0100-2712",
@@ -5948,11 +4364,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2712"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "0600-1203",
@@ -5963,11 +4375,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1203"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-2713",
@@ -5978,11 +4386,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2713"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "0100-2714",
@@ -5993,11 +4397,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2714"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "0100-2715",
@@ -6008,11 +4408,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2715"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "0100-2716",
@@ -6023,11 +4419,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "boîte en carton",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2716"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "2800-1018",
@@ -6038,11 +4430,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "6,4x8,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1018"
+        "dimension": "6,4x8,8"
     },
     {
         "﻿code archive": "2800-1019",
@@ -6053,11 +4441,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1019"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1515",
@@ -6068,11 +4452,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1515"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1516",
@@ -6083,11 +4463,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1516"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-1558",
@@ -6098,11 +4474,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1558"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "2800-1559",
@@ -6113,11 +4485,7 @@ var ArcDatabase = [
         "type": "portrait",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1559"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "0100-3200",
@@ -6128,11 +4496,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "boîte verte 1 divers",
-        "réf AAIN": "",
-        "réf Arexcpo": "6513",
-        "chrono": "3200"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-3201",
@@ -6143,11 +4507,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3201"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "2800-3204",
@@ -6158,11 +4518,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3204"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "2800-3205",
@@ -6173,11 +4529,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3205"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "2830-3206",
@@ -6188,11 +4540,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3206"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "9988-3207",
@@ -6203,11 +4551,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3207"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "9988-3208",
@@ -6218,11 +4562,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3208"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "0100-3000",
@@ -6233,11 +4573,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3000"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3001",
@@ -6248,11 +4584,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3001"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3002",
@@ -6263,11 +4595,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3002"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3003",
@@ -6278,11 +4606,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3003"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3004",
@@ -6293,11 +4617,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3004"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3005",
@@ -6308,11 +4628,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3005"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2800-3006",
@@ -6323,11 +4639,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3006"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3203",
@@ -6338,11 +4650,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3203"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0100-3204",
@@ -6353,11 +4661,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3204"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2300-3500",
@@ -6368,11 +4672,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3500"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2300-3501",
@@ -6383,11 +4683,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3501"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2300-3502",
@@ -6398,11 +4694,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3502"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3503",
@@ -6413,11 +4705,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3503"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3504",
@@ -6428,11 +4716,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3504"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3505",
@@ -6443,11 +4727,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3505"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3506",
@@ -6458,11 +4738,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3506"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3507",
@@ -6473,11 +4749,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3507"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3508",
@@ -6488,11 +4760,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3508"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3509",
@@ -6503,11 +4771,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3509"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3510",
@@ -6518,11 +4782,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3510"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3511",
@@ -6533,11 +4793,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3511"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3512",
@@ -6548,11 +4804,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3512"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3513",
@@ -6563,11 +4815,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3513"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2500-3514",
@@ -6578,11 +4826,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3514"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2400-3515",
@@ -6593,11 +4837,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3515"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1714",
@@ -6608,11 +4848,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1714"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1715",
@@ -6623,11 +4859,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1715"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1716",
@@ -6638,11 +4870,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1716"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1717",
@@ -6653,11 +4881,7 @@ var ArcDatabase = [
         "type": "classe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1717"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2830-2003",
@@ -6668,11 +4892,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "2003"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-3700",
@@ -6683,11 +4903,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3700"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-3701",
@@ -6698,11 +4914,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3701"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2300-3703",
@@ -6713,11 +4925,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3703"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-3704",
@@ -6728,11 +4936,7 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3704"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2820-1700",
@@ -6743,11 +4947,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1700"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1701",
@@ -6758,11 +4958,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1701"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2820-1702",
@@ -6773,11 +4969,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "17,8x23,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1702"
+        "dimension": "17,8x23,8"
     },
     {
         "﻿code archive": "2820-1704",
@@ -6788,11 +4980,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1704"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2820-1705",
@@ -6803,11 +4991,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1705"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2820-1706",
@@ -6818,11 +5002,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1706"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2820-1707",
@@ -6833,11 +5013,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "8,8x11,8",
-        "rangement": "enveloppe",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1707"
+        "dimension": "8,8x11,8"
     },
     {
         "﻿code archive": "2820-1708",
@@ -6848,11 +5024,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "9,8x14,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "1708"
+        "dimension": "9,8x14,8"
     },
     {
         "﻿code archive": "2830-3800",
@@ -6863,11 +5035,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3800"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "2830-3801",
@@ -6878,11 +5046,7 @@ var ArcDatabase = [
         "type": "groupe",
         "origine": "",
         "support": "verre",
-        "dimension": "12,8x17,8",
-        "rangement": "grosse boîte bois",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "3801"
+        "dimension": "12,8x17,8"
     },
     {
         "﻿code archive": "0300-8010",
@@ -6893,10 +5057,6 @@ var ArcDatabase = [
         "type": "",
         "origine": "",
         "support": "verre",
-        "dimension": "9x12",
-        "rangement": "enveloppe avec bulles",
-        "réf AAIN": "",
-        "réf Arexcpo": "",
-        "chrono": "8010"
+        "dimension": "9x12"
     }
 ];
