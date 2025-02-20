@@ -6716,7 +6716,7 @@ var ArcDatabase = [
         "Taille": "151x100",
         "Année": "févr-96",
         "Photographe": "Odile Lorber",
-        "Description": "Vincent CHRISTOFOLI et Isabelle BONZOM ( historienne de l'Art ) au Musée de La Guérinière",
+        "Description": "Vincent CRISTOFOLI et Isabelle BONZOM ( historienne de l'Art ) au Musée de La Guérinière",
         "Commentaires": "Photo + négatif"
     },
     {
@@ -6724,7 +6724,7 @@ var ArcDatabase = [
         "Taille": "151x100",
         "Année": "févr-96",
         "Photographe": "Odile Lorber",
-        "Description": "Vincent CHRISTOFOLI et Isabelle BONZOM ( historienne de l'Art ) au Musée de La Guérinière",
+        "Description": "Vincent CRISTOFOLI et Isabelle BONZOM ( historienne de l'Art ) au Musée de La Guérinière",
         "Commentaires": "1 Photo + 2 négatifs"
     },
     {
@@ -26060,7 +26060,7 @@ var ArcDatabase = [
         "Taille": "151x101",
         "Année": "mai-95",
         "Photographe": "Alain Devineau",
-        "Description": "L'école Richer en visite au château avec Vincent CHRISTOFOLI",
+        "Description": "L'école Richer en visite au château avec Vincent CRISTOFOLI",
         "Commentaires": "A identifier\nNégatif 3400-0135"
     },
     {
